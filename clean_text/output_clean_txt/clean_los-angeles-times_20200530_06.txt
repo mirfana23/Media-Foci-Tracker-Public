@@ -1,0 +1,31 @@
+Trump is attacking Twitter policies.
+There could be repercussions.
+The platform’s moderating policies are both unusually subjective and notably principled.
+Los Angeles Times - 30 May 2020 - A1 - By Suhauna Hussain and Jeff Bercovici
+When Twitter slapped a warning label over President Trump’s tweet Thursday night about riots in Minnesota’s Twin Cities, the company’s official explanation was that the president had violated a rule prohibiting “glorification of violence.” But that justification doesn’t explain why Twitter chose to leave the tweet on the site for people to see, or why it blocked the ability to write replies, or why past tweets seemingly breaking the same rule were allowed to stand unaltered.
+To understand those decisions, you would have to know Twitter’s other rules.
+There are plenty of them.
+Along with other large social media services, Twitter has evolved over the years from a free-speech, free-fire zone into something more regulated in response to commercial concerns, government pressure and user complaints.
+Like Facebook, Instagram, Reddit and Pinterest, it has been frequently compelled by events to update its policies on harassment, hate speech, misinformation and election interference, among other issues.
+Under Chief Executive Jack Dorsey, Twitter has taken a unique approach to that task, erecting a framework that rests on homegrown concepts and definitions.
+Through an approach that is more nuanced than those of its competitors, the company has sought to portray itself as upholding free speech while also embracing values like inclusivity and human dignity.
+While its rules may appear to prescribe specific responses to specific transgressions, in practice, the subjectivity involved in interpreting and balancing the various edicts gives the company leeway to make ad hoc judgment calls — as the White House learned not once but twice this week.
+On Monday, the company affixed a note to a pair of Trump’s tweets about mail-in ballots.
+“Get the facts,” it said, linking to a list of statements that dismantled the president’s claims.
+It was the first time Twitter had applied a fact-check label to one of Trump’s tweets.
+Twitter said it has previously used the warning label for Brazilian politician Osmar Terra, who tweeted in April that quarantining increases the spread of the coronavirus.
+The warning on Trump’s Thursday tweet, which implied that protesters in Minneapolis could be shot, was the first time Twitter has deemed him afoul of the violence-glorification rule, despite earlier episodes such as engaging in nuclear sword-rattling with North Korea.
+“The tweet violates our policies regarding the glorification of violence based on the historical context of the last line, its connection to violence and the risk it could inspire similar actions today,” a Twitter spokesperson said in a statement.
+While that sounds cut and dried, Twitter has given itself room to maneuver with a parallel policy that allows “public-interest exceptions” for rule-breaking tweets from politicians and other government figures.
+Twitter’s description of that policy details a lengthy list of factors that weigh in applying the exemption and handling tweets that receive it.
+“A critical function of our service is providing a place where people can openly and publicly respond to their leaders and hold them accountable,” Twitter wrote in a blog post in June 2019.
+The company expanded on the policy in October, saying it would enforce rules for any account engaging in promotion of terrorism, threats of violence or posting of private information, for example.
+“We want to make it clear today that the accounts of world leaders are not above our policies entirely,” the company blog post read.
+Platforms that are influencer-focused have difficulty understanding how to treat highprofile figures relative to average users, said Kat Lo, a researcher who studies online moderation at the nonprofit Meedan.
+In giving itself tools besides account deactivation and post removal, Twitter has made its rules substantially more enforceable, she said.
+With Facebook — which also owns Instagram and WhatsApp — signaling its reluctance to pass judgment on Trump’s public utterance, “this is, in fact, Twitter distinguishing themselves from other social media companies in a big way,” Lo said.
+Still, the fact that Twitter hasn’t taken action on a Trump tweet until now shows that the company has reservations of its own about taking on @realdonaldtrump and his loud and loyal followers.
+With Trump ordering the executive branch to reexamine the rules Twitter and its competitors rely on to do business, the costs of confrontation are clear (even if that executive order is more threat than punishment).
+“On the same day that they decided to fact-check a tweet about absentee ballots, they decided not to factcheck a tweet insinuating that a reporter the president doesn’t like is responsible for a murder,” noted Renée DiResta, technical research manager at the Stanford Internet Observatory.
+“So the application of the policy is still not an indication that everything President Trump says will be factchecked.”
+‘On the same day that they decided to fact-check a tweet about absentee ballots, they decided not to fact-check a tweet insinuating that a reporter the president doesn’t like is responsible for a murder.’ — Renée DiResta, Stanford Internet Observatory

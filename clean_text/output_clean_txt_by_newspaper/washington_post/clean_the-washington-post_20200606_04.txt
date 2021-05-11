@@ -1,0 +1,65 @@
+Facebook workers internally challenged decision on Trump
+The Washington Post : 6 Jun 2020 - A1 - BY ELIZABETH DWOSKIN AND NITASHA TIKU
+san francisco — At an emergency town hall meeting Facebook held this week — days after President Trump posted, “When the looting starts, the shooting starts,” on his account — 5,500 Facebook employees had a demand for Mark Zuckerberg.
+Before the meeting, the employees voted in a poll on which questions to ask the chief executive at the meeting, according to internal documents viewed by The Washington Post.
+The question that got the most votes: “Can we please change our policies around political free speech?
+Fact checking and removal of hate speech shouldn’t be exempt for politicians.” Zuckerberg also met privately with black executives to discuss their pain and objections to Trump’s post, which referred to responding to those protesting George Floyd’s death in Minneapolis police custody.
+And employees questioned whether Facebook was in an “abusive relationship” with the president, according to a trove of documents that included more than 200 posts from an internal message board that showed unrest among employees.
+Although some Facebook employees have taken to public forums such as Twitter to express their displeasure, the internal poll and the documents show just
+how widely and quickly their dissent and discontent have spread after Zuckerberg’s decision to double down on allowing unfettered speech by politicians on the platform.
+He even appeared on Fox News Channel last week to defend his viewpoint.
+Facebook faces a boiling crisis that is dragging the company into yet another major controversy, this one dealing with the explosive matters of police violence, race and free speech.
+And Zuckerberg’s early public words about the issue — in which he said the president’s post didn’t break the company’s rules against inciting violence — have sparked widespread anger internally, with three employees quitting in protest and others complaining about the post on rival site Twitter.
+Dozens of former employees signed a letter critiquing the decision, saying it was a betrayal of Facebook’s early ideals.
+But inside the company, criticism has been even more widespread and personal, according to the documents, which show how many employees believe Trump is purposefully testing them.
+Facebook, like other tech giants, has struggled to recruit African Americans, especially in its top ranks.
+That has led some employees to say that company leaders don’t understand how deep the issues go.
+Only 4 percent of employees are black, a number that falls to 3 percent among senior leadership, according to Facebook’s latest diversity report.
+Only one black person, diversity chief Maxine Williams, was involved in making the decision to leave Trump’s post up.
+Employees in recent days have wrestled deeply with issues of race and free speech — suspecting that Trump and other Republican leaders are purposefully testing social media companies in the lead-up to the November election.
+““What’s the point of establishing a principle if we’re going to move the goal posts every time Trump escalates his behavior?” software engineer Timothy Aveni asked on an internal message board over the weekend.
+He quit this week.
+“My toddler basically does the same thing to test boundaries,” another person said.
+Silicon Valley companies, and particularly Facebook, tend to demand loyalty from employees, who typically sign nondisclosure agreements that forbid them to speak out publicly about the company.
+The firms ply them with big salaries, perks and some measure of voice: holding town hall meetings and allowing them to vent internally on message boards.
+Facebook’s left-leaning workforce of about 45,000 full-time employees has been a target of Trump.
+But the 2016 presidential campaign changed the way the world — and workers — viewed Facebook, after Russians interfered in it by amplifying divisive messages to millions of Americans on the platform, showing how easily it could be exploited to hurt democracy.
+Two years later, a privacy scandal involving Cambridge Analytica erupted.
+Political operatives who had worked for the Trump campaign were found to have breached the personal data of tens of millions of Americans.
+Those two incidents and others have engendered a slow-burning crisis of confidence in the company’s leadership and direction, according to employees there and the posts, creating a flash point with last week’s events.
+“We have teams around the company giving serious attention to the ideas we’re hearing, especially those from our Black community,” spokeswoman Liz Bourgeois said in a statement.
+“This is a time not just to listen but to act.”
+Facebook’s decisions have left some employees questioning whether the company has kowtowed to the right, said two executives who have been part of the discussions.
+Zuckerberg made a personal call last year not to take down a video of House Speaker Nancy Pelosi (D- Calif.) that was altered to make her appear drunk, and chose not to factcheck political advertising or statements by politicians, said a person familiar with the decisionmaking who spoke on the condition of anonymity for fear of retaliation.
+Last week, Twitter marked erroneous tweets by the president about mail-in ballots with factchecking labels for the first time.
+That prompted Trump to retaliate, signing an executive order that threatens to undermine a decades-old law that shields the tech industry from being held legally responsible for harmful content on their platforms.
+He also posted and tweeted about sending in the military to control looting and “thugs” at the protests over the death of Floyd, who was black, using the phrase, “When the looting starts, the shooting starts.” That was perceived as racially divisive comment because it had a history of being used by segregationist politician George Wallace.
+Twitter marked the post as breaking its policies against inciting violence, but Facebook, which has a similar policy against provoking violence, decided not to follow suit.
+A week ago, on May 29, Zuckerberg said in a public Facebook post that he would not take action, because the company wants to enable free expression and public debate about political activity — and because he did not think the post broke the company’s policies.
+Facebook employees took another tack.
+They tried to report Trump’s post, TASK T6770430, as problematic to trigger review by content moderators — contractors who remove offensive content.
+Some dived into the company’s systems to try to understand the rationale for keeping it up, while others
+counted the hours and said they assumed it was just a matter of time before a post that so clearly broke the company’s policies would be removed.
+“Tm trying to reassure myself that we will do something here.
+We HAVE to, surely?
+Are there any lines that remain to be crossed?” someone asked.
+They also unleashed complaints on Workplace, the internal messaging board.
+“Tt might be a coincidence, but the timing of this feels like a test balloon .
+.. of what we should expect through November 2020 and beyond,” said one person.
+Employees directly involved in implementing the standards also weighed in.
+“This is exactly the kind of content that can incite violence and is exactly what we should be taking action on,” said one employee who worked on Facebook’s Societal Violence team for 15 months.
+At the same time, a group of black executives met privately with Zuckerberg and Chief Operating Officer Sheryl Sandberg on May 30 to protest the decision, according to the documents.
+The group collectively agreed to provide more input about content policy decisions, such as how Facebook evaluates racial “dog whistles,” and to meet more frequently with Zuckerberg and Sandberg.
+Some on the message board pointed out the racially divisive history of the language in the post.
+On Tuesday, Zuckerberg decided he would hold an emergency town hall meeting, pushing up the weekly companywide Q&A that is usually held on Thursdays.
+During the gathering, Zuckerberg said the language in Trump’s post had “no history of being read as a dog whistle for vigilante supporters to take justice into their own hands,” according to a transcript obtained by Vox and workers who attended.
+The comment was a reference to “aggressive, even excessive, policing,” he said, but he took Trump’s post to be a warning or threat of using the military against looting.
+Zuckerberg said that he had thought long and hard about the issue, but that when it came to the moment when he could take it down, “he couldn’t get there.” He said he knew employees would be very upset.
+He also said he was exploring a labeling option, similar to Twitter’s middle ground between removal and merely leaving a post up.
+The remarks struck some employees as inconsistent because Facebook already had taken down accounts by state actors and of military leaders in Myanmar, according to the executives.
+Facebook took down the accounts after criticism that the company had allowed military leaders on the platform to threaten the Rohingya ethic group, helping to fuel a genocide.
+And employees were also surprised because Zuckerberg had said in past congressional testimony that politicians were not exempt from the company’s prohibitions on inciting violence.
+“I’m really bothered by the Q+A today,” one black employee wrote.
+“We hear where the leaders of this country and our Execs stand and know that the Policy Matters more than Black Lives.”
+“What’s the point of establishing a principle if we’re going to move the goal posts every time Trump escalates his behavior?”
+Timothy Aveni, a Facebook software engineer who quit after posting this on an internal message board

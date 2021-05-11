@@ -1,0 +1,68 @@
+Data study:
+Overall U.S. toll likely topped 100,000 weeks ago.
+ExGess deaths bn the U5,
+The number of people reported to have died of the novel coronavirus in the United States surpassed 100,000 last week, a grim marker of lives lost directly to the disease.
+But an analysis of overall deaths during the pandemic shows that the nation probably reached a similar terrible milestone three weeks earlier.
+Between March 1 and May 9, the nation recorded an estimated 101,600 excess deaths, or deaths beyond the number that would normally be expected for that time of year, according to an analysis conducted for The Washington Post by a research team led by the Yale School of Public Health.
+That figure reflects about 26,000 more fatalities than were attributed to covid-19 on death certificates during that period, according to federal data.
+Those 26,000 fatalities were not necessarily caused directly by the virus.
+They could also include people who died as a result of the epidemic but not from the disease itself, such as those who were afraid to seek medical help for unrelated illnesses.
+Increases or decreases in other categories of deaths, such as motor vehicle accidents, also affect the count.
+Such “excess death” analyses are a standard tool used by epidemiologists to gauge the true toll of infectious-disease outbreaks and other widespread disasters.
+The Yale-led team used historical death data to estimate the expected number of deaths for each week this year, adjusting for such factors as seasonal variation and the intensity of flu epidemics.
+To calculate excess deaths, the researchers subtracted their estimate of expected deaths from the overall number of deaths reported by the National Center for Health Statistics.
+The covid-19 death toll, a key data point in shaping the publichealth response to the pandemic, has become a political flash point.
+Allies of President Trump have claimed that the government tally is inflated, contending that it includes people with other medical conditions who would have died with or without an infection.
+The Yale-led analysis, however, suggests that the actual number of people who have died because of the pandemic is far greater than the official government death tallies.
+The researchers estimated that the number of excess deaths between March 1 and May 9 was most likely between 97,500 and 105,500.
+“It’s clear that the burden is quite a bit higher than reported totals,” said Daniel Weinberger, the Yale professor of epidemiology who led the analysis.
+At the same time, an examination of excess deaths by state paints a portrait of two Americas, one pummeled by the pandemic and the other only lightly scathed.
+Many Republican strongholds, including Alaska, South Dakota and Utah, did not have an unusual number of overall deaths during the period covered by the analysis.
+The numbers of deaths in those states rarely rose above the expected ranges and sometimes were slightly below them, the researchers found.
+In contrast, some of the nation’s most populous blue and purple states — including New York and New Jersey but also Maryland, Massachusetts, Michigan and Illinois — experienced staggering surges in deaths.
+In every one of those states, the spike surpassed the number of deaths attributed to covid-19 in official tallies.
+New York City had an estimated 6,500 excess deaths beyond those attributed to the virus, according to the analysis.
+The state-by-state analysis indicates that, as testing has become more widely available, covid-19 deaths have accounted for larger and larger percentages of the excess deaths.
+It also suggests that the gap between excess deaths and official covidi19 tallies has been particularly pronounced in several states that currently have the least restrictive social distancing rules in place.
+The number of excess deaths fell nationally in the weeks leading up to May 9 — the last week for which data is complete enough to be reliable — largely because of the easing of the pandemic in such hot spots as New York City and New Jersey.
+However, that decline is overstated in the data due to delays between when a death occurs and when it is reported to the federal government.
+Among the states where those reporting lags have been most pronounced are New Mexico, Kentucky, Rhode Island, Louisiana, Ohio and Georgia, according to the analysis.
+The increase in reported deaths can be dramatic as the data become more complete.
+On April 11, for example, federal data indicated that 27,300 people had died overall during the previous week.
+But a month later, as states reported more deaths, the figure for that week had been revised upward to 71,800.
+The Yale-led analysis seeks to correct for such lags.
+It adjusts the baseline of expected deaths for each week to reflect the number of deaths that normally would have been reported for that week as of the time the analysis was conducted.
+In coming weeks, as the data become more complete, both the baseline and the number of reported deaths during the period examined will shift upward.
+For the most part, the states that continue to maintain especially restrictive social distancing rules are those that suffered the largest numbers of excess deaths.
+In many of those places, most nonessential businesses remain closed, bars and restaurants may not seat customers, and public gatherings are limited to 10 people or fewer, according to a Post review of state policies through Friday.
+In states that have begun to lift restrictions, the picture of excess deaths through May 9 is more mixed.
+Deaths were within the normal range in many of those states, but they spiked in a handful of others, including Massachusetts, Colorado, Louisiana and Virginia, the analysis shows.
+The states with the loosest restrictions are generally those in which the death toll through May 9 was not unusually high, according to the analysis.
+But a handful of those states saw spikes in deaths and significant numbers of excess deaths beyond those officially attributed to covid-19, though their overall numbers were small relative to the harder-hit states.
+For example, South Carolina had an estimated 1,100 excess deaths.
+Only 326 — or about 30 percent — were recorded as covid-19 deaths, according to death certificate data published by the National Center for Health Statistics (NCHS), part of the Centers for Disease Control and Prevention.
+A contributing factor to the discrepancy could be that South Carolina is testing relatively few people for the coronavirus, making it less likely that such cases will be diagnosed, said Farzad Mostashari, a doctor and technologist based in Bethesda, Md., who is part of the r... search team that conducted the analysis for The Post.
+South Carolina ranks 41st in the nation in prevalence of testing, according to data compiled by the Covid Tracking Project.
+South Carolina public health officials have said they are committed to ensuring that every resident who dies of covid-19 is counted.
+In Arizona, another state that has only minor restrictions in place, the number of deaths attributed to covid-19 was 40 percent of the estimated 1,400 excess deaths.
+Arizona ranks 51st in testing rates among the nation’s states and territories.
+In Texas, which ranks 47th for testing, 39 percent of the estimated 2,900 excess deaths were attributed to the virus.
+Nationally, between March 1 and May 9, covid-19 deaths accounted for about 74 percent of excess deaths.
+The gap between excess deaths and those attributed to covid-19 has narrowed significantly since the early weeks of the outbreak.
+In the week ending March 28, only about half of the excess deaths were attributed to covid-19.
+In the week ending May 2, the proportion had risen to 81 percent.
+That is acommon pattern in an epidemic, said Robert N. Anderson, chief of mortality statistics at the NCHS.
+“In the early stages, when physicians are less familiar with the disease and not looking or testing for it, cases are more likely to be misdiagnosed and attributed to other causes,” Anderson said.
+“As the epidemic progresses and physicians see more and more cases, they are increasingly likely to correctly diagnose the disease and report it accordingly.”
+The NCHS is conducting its own analyses of excess deaths during the pandemic and has also reported numbers well beyond the government’s official covid-19 death toll, but with a wider range of estimates.
+The agency estimates there were between 89,257 and 119,706 excess deaths from Feb. 1 to May 9.
+The NCHS analysis differs from the Yale estimates in several ways: The government analysis does not account for the intensity of flu epidemics, and it seeks to account for the lag in death reporting by estimating the number of deaths that will eventually be tallied when data is complete.
+The Yale-led team found with 95 percent confidence that the number of excess deaths during the period under study falls within the range of 97,500 and 105,500.
+The 101,600 figure is the midpoint of that range.
+The NCHS model also calculates a range of excess deaths with 95 percent confidence.
+The agency publishes only the midpoint and low numbers from that range.
+It does not publish the higher end.
+Anderson said the higher number could be misleading.
+It would include many deaths that could be due to normal variation, he said.
+Steven H. Woolf, a professor at the Virginia Commonwealth University School of Medicine, said it is unusual to for scientists to publish only the lower and middle points of a range.
+“The customary thing in most scientific publications, including most results that come from CDC and NCHS, is to present the full 95 percent confidence interval,” said Woolf, who is not part of the Yale-led effort.

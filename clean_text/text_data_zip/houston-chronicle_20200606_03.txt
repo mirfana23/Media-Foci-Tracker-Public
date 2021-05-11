@@ -1,0 +1,182 @@
+2020. 6. 17. Criticism mounting on tracing contract
+
+Criticism mounting on tracing contract
+Uploading error adds to bipartisan backlash of state’s $295M deal
+
+Houston Chronicle - 6 Jun 2020 - A1 - By Jay Root STAFF WRITER
+
+AUSTIN — More than a dozen Republican legislators are bucking Gov. Greg Abbott by call-
+ing for termination of a controversial $295 million coronavirus-related contract that was
+hastily awarded to a company whose CEO falsely claimed he had a Ph.D.
+
+  
+
+At least two top Democrats — including the party’s leader in the Texas House of Represen-
+tatives — are also criticizing the deal with MTX Group Inc., saying the state needs to
+demonstrate the company is up to the vital job of tracking down people who have been ex-
+posed to COVID-19, or else it should pull the plug.
+
+The bipartisan criticism comes as the agency that oversees the contract, the Texas Depart-
+ment of State Health Services, acknowledges that MTX “mistakenly uploaded” job training
+documents to its contact tracers that they were never supposed to get, a move some law-
+makers say potentially raises privacy concerns.
+
+Another potential privacy issue: MTX workers are using their own computers and personal
+email addresses, fueling worries — unwarranted worries, the state says — that private
+medical information about the people they investigate could be inadvertently divulged.
+State Rep. Steve Toth, R-Conroe, like many conservative Republicans, already had privacy
+concerns about COVID-19 contact tracing before MTX got the job. But he said when he
+learned that MTX CEO Das Nobel had falsely claimed on his online LinkedIn bio that he had
+a doctorate from Colorado Technical University, he moved into the end-this-now camp
+even as Abbott staunchly defends the emergency contract.
+
+“Up until that point, I was like, OK, I’m not good with this, but let’s just chill and find out
+more,” Toth said. “That pushed me over the edge.”
+
+After the Houston Chronicle published a story about Nobel’s
+
+doctorate claim, the MTX CEO changed his online biography to say he was in the doctorate
+program at Colorado Technical University but delivered “no dissertation.”
+
+Toth, who sits on the powerful House Appropriations Committee, is a member of the con-
+servative Texas Freedom Caucus in the state House, all 11 of whom are calling for termina-
+tion of the contract. So are state Rep. James White, R-Hillister, and state Sen. Bob Hall, R-
+Rockwall. Elsewhere, state Sen. Robert Nichols, R-Jacksonville, said he has been “against
+this contract since learning about its existence,” according to the Lufkin Daily News.
+
+MTX said in a written statement that it welcomes scrutiny and is working with lawmakers
+who have expressed concerns to “make sure they have answers to their questions.”
+
+https:/Avww.pressreader.com/usa/houston-chronicle/20200606/page/1/textview 114
+2020. 6. 17. Criticism mounting on tracing contract
+
+“We are proud to report that in these early stages, we are integrating seamlessly with our
+state partners and we are ahead of schedule in delivering on this contract,” the statement
+said.
+
+DSHS did not answer a question about its authority to end the contract, which has a clause
+that says the state can terminate it “in whole or in part, at any time” that the state sees fit.
+Abbott spokesman John Wittman, who has portrayed the governor as confident in the
+company’s ability to perform, did not respond to questions from the Chronicle about the
+intraparty criticism, the CEO’s falsely claimed doctorate or where the governor stands on
+the contract now.
+
+In a written statement, DSHS spokesman Chris Van Deusen said Nobel never claimed to the
+agency that he had a Ph.D. He also said MTX is “meeting the requirements of the con-
+tract.”
+
+‘We needed to move quickly’
+
+Van Deusen said MTX has set up a call center and integrated the telephone system into
+Texas Health Trace, a statewide management system for tracking COVID-19 cases and co-
+ordinating contact tracing efforts. Van Deusen also said this week that MTX has “brought
+on more than 600 additional contact tracers.”
+
+Building up a force of contact tracers is a key part of the state’s strategy for limiting the
+spread of the novel coronavirus as Texas continues to reopen its battered economy. The
+state is a little more than 1,000 people short of its goal of 4,000 tracers as of this week,
+state officials say.
+
+Most of them work for state or local health departments. MTX contact tracers and man-
+agers represent a fraction of the total number in Texas, but the way they were brought on
+board has stirred bipartisan blowback.
+
+Lawmakers were caught off guard after the Texas Health and Human Services Commission
+quietly awarded the $295 million deal to little-known MTX, which has provided no pub-
+licly offered proof it’s ever handled such an important and lucrative assignment.
+
+“Because of the COVID-19 disaster, we needed to move quickly to get the pieces in place to
+begin contact tracing so that our disaster response wouldn’t be delayed,” Van Deusen said.
+Unlike most major state contracting deals, this one was never publicly posted. Instead
+DSHS, working with HHSC contracting personnel, decided which companies to solicit by
+email, officials said. The companies had 48 hours to respond, and the state awarded the
+contract to MTX only five days after the proposals were received.
+
+Republican politicians are already facing pressure from conservative base voters who tend
+to equate widespread COVID-19 monitoring with overreaching government surveillance.
+The unusual procurement process and MTX missteps have only added jet fuel to the politi-
+cal fire.
+
+“Questions from my constituents regarding the MTX contract continue on an almost daily
+basis,” said state Sen. Angela Paxton, R-McKinney, whose district includes MTX’s Frisco
+headquarters. “I have an obligation to my constituents and my own conscience to pursue
+answers to these questions, and that’s what I am doing.”
+
+Even GOP Lt. Gov. Dan Patrick, who has mostly presented a united front alongside Abbott,
+has unloaded on the way the contract was awarded by the agency overseen by a gubernato-
+
+https:/Avww.pressreader.com/usa/houston-chronicle/20200606/page/1/textview 2/4
+2020. 6. 17. Criticism mounting on tracing contract
+
+rial appointee, according to long excerpts of a tele-town hall event posted on Twitter bya
+Texas Tribune reporter.
+
+“Tf it turns out not to be what they told us it is, I’m going to be the first person to stand up
+and say, ‘We need to stop right now,’ ” Patrick said. “It all happened within seven days and
+I can’t say strongly enough: I was not happy how it was handled, and we should’ve been in
+the loop.”
+
+Documents obtained by the Chronicle from a person hired thanks to the MTX contract are
+fueling even more concern.
+
+‘One fumble after another’
+
+The documents show the workers were given “job aids” — instructions on how to perform
+their duties — with one of them telling contact tracing managers to create spreadsheets or
+Word documents with “relevant information,” including dates of birth, addresses and job
+duties of infected people and those with whom they came into contact.
+
+The instructions describe how to securely send email with the attached case information,
+but those who clicked on online guidance for that got an error message or just no working
+links at all.
+
+The newly hired person provided with the instructions expressed fears that following them
+would lead to a violation of health privacy laws because MTX workers are using their own
+computers and personal email addresses.
+
+As it turns out, though, none of those instructions was supposed to be shared with the
+MTX contact tracers and managers, according to Van Deusen of DSHS. He said the docu-
+ments were created for state employees who were doing contact tracing before the agency
+awarded the contract to MTX.
+
+“We shared them with (MTX) as samples of job aids we had previously developed. It ap-
+pears they were mistakenly uploaded to an internal MTX site and have since been removed
+since they’re no longer applicable,” Van Deusen said.
+
+Another set of instructions warned those working under the MTX contract who were hav-
+ing system login problems to refrain from sending emails directly to the contractor run-
+ning the Texas Health Trace system or to “anyone else from Texas state agencies.”
+
+Van Deusen said the admonition related to the login issue and not the ability, broadly
+speaking, to communicate with the government.
+
+“There’s no prohibition on contacting health officials,” Van Deusen said.
+
+MTX said it has a “successful track record on public sector projects around the country”
+and has made the protection of privacy in Texas a top priority.
+
+“Our policy is unequivocal that no sensitive information be stored on personal devices and
+we have put in place protocols to ensure this does not happen,” the company said.
+
+But lawmakers in both parties say the confusion over the instructions and missteps over
+the CEO’s credentials are more evidence that the contractor has gotten off to a bad start.
+“I’m especially concerned because it’s so critical that we have this in place, and it’s just
+been one fumble after another,” said state Rep. Donna Howard of Austin, a Democrat and
+longtime member of the House Appropriations Committee.
+
+If DSHS can’t quickly demonstrate MTX is up to the job, “I can’t see any other option but to
+perhaps terminate it,”” Howard added. “This is just so ridiculous.”
+
+https:/Avww.pressreader.com/usa/houston-chronicle/20200606/page/1/textview 3/4
+2020. 6. 17. Criticism mounting on tracing contract
+
+Likewise, Rep. Chris Turner of Grand Prairie, chairman of the House Democratic Caucus,
+called contact tracing critical to containing the virus and said it needs to be done right.
+“Unfortunately everything we’ve seen so far with this huge contract is the state is getting
+it wrong,” Turner said. “HHSC must thoroughly and completely address all of the concerns
+that have been raised very quickly to the Legislature and to the public, and if it can’t do
+that it needs to seek out other qualified bidders who can handle this job in a more profes-
+sional manner.”
+
+https:/Avww.pressreader.com/usa/houston-chronicle/20200606/page/1/textview 4/4
+

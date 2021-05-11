@@ -1,0 +1,162 @@
+2020. 6. 17. Surveillance: Cameras cut both ways for police and protesters.
+
+Surveillance: Cameras cut both ways for police and protest-
+ers.
+
+The Washington Post : 4 Jun 2020 - A1 . BY HEATHER KELLY AND RACHEL LERMAN heather.kelly@washpost.com
+rachel.lerman@washpost.com
+
+On Saturday night, as protests were still taking place in city streets across the country, the
+Dallas Police Department put out a call for help on Twitter. It asked anyone who had video
+from the protests showing “illegal activity” to upload it to its anonymous tip app, iwatch
+Dallas.
+
+What it got was a different kind of protest, in the form of a flood of videos and images of
+K-pop stars performing. The department later tweeted that the app was down because of
+technical difficulties.
+
+In the tense and escalating standoffs between law enforcement and protesters that have
+now spread to more than 100 cities in the wake of George Floyd’s killing in Minneapolis
+police custody, photos and video footage are being collected and wielded by all sides. And
+there is no shortage of cameras to pull from. Law enforcement agencies have existing net-
+works of surveillance cameras and body cameras worn by officers, as well as face-and ob-
+ject-recognition software. Large retail and food chains have similar security systems and
+traditionally will share footage with police if it is part of an investigation. Protesters and
+journalists shoot their own videos, the latter often on smartphones or small cameras such
+as Gopros.
+
+Then there’s the vast unofficial network of personal security cameras, including Amazon’s
+Ring and Google’s Nest cameras, that make it easy to record people and gatherings outside
+homes or some small businesses. Even Tesla and other vehicles’ cameras can provide
+recordings of their surroundings. There’s no need to even watch all the videos — many
+work with apps that automatically detect movement or people. Tools such as Ring’s
+Neighbors app make it easy for police to ask for footage from people with cameras in spe-
+cific areas and easy for people to then share it with law enforcement.
+
+But it was also cameras that helped set off the latest round of protests over police brutality.
+Without them, Floyd’s death would not have been captured from multiple angles and
+shared so widely.
+
+“The outrage of seeing a murder has created a national conversation, whereas some of the
+other police shootings haven’t,” said Andrew Guthrie Ferguson, a law professor at Ameri-
+can University and the author of “The Rise of Big Data Policing.”
+
+Cameras have been present at protests for years, but more recently, the technology that al-
+lows people to share footage or analyze it has changed significantly. With the growth of
+tech companies and their offerings have come increased concerns regarding how and when
+people are being watched — as well as how that information may be used by law enforce-
+ment and the government. Adding to these concerns is the growing use of facial-recogni-
+tion software and other tools powered by artificial intelligence that are used by law en-
+forcement to track down information and suspects.
+
+Before Ayo Omolewa attended a protest in the District on Saturday, a friend texted him to
+put his phone in airplane mode and not use his GPS so as to avoid being tracked by law en-
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200604/page/1/textview 1/3
+2020. 6. 17. Surveillance: Cameras cut both ways for police and protesters.
+
+forcement. The Maryland-based cloud-security engineer said he stays aware of where
+cameras are that could be used to identify him.
+
+He’s less concerned about ever being caught on camera and more worried about the possi-
+bility that he could be put in danger by being identified at a protest.
+
+“Surveillance is a really big issue right now, and it really shouldn’t be,” he said.
+
+It’s no longer just a tool of the police. Smartphone camera footage of crowds of protesters
+peacefully marching and resisting police officers’ advancements has spread on social me-
+dia, bolstering supporters’ cry that most people are gathering nonviolently. Phone cam-
+eras also record scenes that become rallying cries for protesters, including the moment
+when a police car drove into a crowd of protesters in Brooklyn on Saturday. Some videos
+from protests have led to disciplinary actions against officers, including firings.
+Live-streaming from smartphones has become a common feature on most social media
+platforms, including Facebook, Instagram, Youtube and Twitter’s Periscope, and protest-
+ers are able to show what is happening in real time and capture incidents of police brutality
+that might have been erased in the past. On Monday night, a group of protesters took
+refuge in a stranger’s house in Washington after the city’s curfew, leading to an all-night
+standoff with police that was livestreamed and went viral.
+
+“The ability for the public to document what is going on is an important tool for holding
+powerful people and institutions accountable, including the police,” said Evan Greer,
+deputy director of the digital advocacy group Fight for the Future. “The availability of,
+particularly, smartphone cameras has dramatically increased the number of instances that
+we see.”
+
+But all those cameras — and the devices they’re attached to — also give law enforcement
+more awareness of the location and identity of protesters, offering unique identifiers that
+many protesters try to avoid. Videos and photos shared online often carry metadata that
+provides device and location information, something Greer says people can avoid sharing
+by taking a screen image of a photo and sharing that instead.
+
+Facial-recognition technology is another concern. The tools have become more commonly
+used as law enforcement agencies purchase face-detection software, including Amazon’s
+Rekognition and Clearview AI. They are typically used to match sometimes low-quality
+images of faces grabbed from security cameras, social media or smartphone photos with
+vast databases of mug shots or images scraped from the Internet to find a person’s name
+and contact information. Civil rights groups and AI researchers have said the systems are
+often inaccurate, especially when used to identify women and people of color. A federal
+study last year also found a high incidence of bias in the software.
+
+Some protesters have asked that footage showing faces without consent not be widely cir-
+culated on social media or by journalists because police have the same access to the videos
+as everyone else. Some police departments have tools that scrape sites like Facebook,
+Youtube and Twitter for relevant videos. Wearing masks, like the ones recommended to
+limit the spread of the novel coronavirus, can make it harder for facial-recognition tools to
+identify people but not impossible.
+
+In Chicago, protester Brian Grieshaber and his brother were careful to wear masks — es-
+pecially important during the pandemic, he said — and hats, sunglasses and generic
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200604/page/1/textview 2/3
+2020. 6. 17. Surveillance: Cameras cut both ways for police and protesters.
+
+clothing to avoid being identified.
+
+‘“‘We have been learning tactics from the protests in Hong Kong,” Grieshaber said.
+
+Law enforcement agencies do not regularly disclose how they investigate people, including
+whether tools like Rekognition are used.
+
+Amazon did not immediately return a request for comment about Rekognition. (Amazon
+chief executive Jeff Bezos owns The Washington Post.) Clearview AI did not immediately
+respond to a request for comment.
+
+People and businesses with their own security systems are a coveted part of growing sur-
+veillance networks. At least 1,350 law enforcement agencies are on Amazon-owned home
+security camera company Ring’s Neighbors app. It lets police see videos Ring camera users
+post to the app, as well as put out requests for relevant footage from users in specific areas.
+Public safety agencies have access only if a user posts it or shares it, said Ring’s head of
+communications, Yassi Shahmiri. “Further, all video requests are facilitated by Ring,
+meaning public safety agencies cannot see user names, contact information, video content
+or location unless a user voluntarily chooses to share it.”
+
+Separate from the social network apps, governments and law enforcement agencies can
+also submit official legal requests directly to companies for information on users. For ex-
+ample, a police department might ask Google for video footage from a user’s Nest camera
+stored on its servers. Nest accounts allow footage to be stored in Google’s cloud for a set
+period of time. The companies all have their own policies to help decide which are ap-
+proved.
+
+“Google does not have partnerships with law enforcement regarding the sharing or disclo-
+sure of user data, including Nest camera footage,” said Google spokesman Evan Barbour
+Grippi. “We have a formal process that we have long followed to appropriately vet requests
+for data users store with us.”
+
+Additionally, many police departments have camera registry programs that skip the tech
+middlemen. People are asked to tell the city that they have a private security camera,
+where they’re located, and how to contact them. The programs are used by police depart-
+ments to put out calls for footage to specific people they have on file in areas they’re in-
+vestigating.
+
+Gabriel Meyer-lee protested on Saturday in Burlington, Vt. Meyer-lee, a PHD student
+studying computer science, said they weren’t overly concerned about the potential use of
+facial-recognition software in the small city, but other protesters may worry about it in
+other, larger cities. Fellow protesters work to protect identities by scrubbing metadata off
+photos or obscuring faces in the photos they share.
+
+Taking note of the multitude of cameras that may be watching at any time has become
+more a part of conversation generally, they said. “People haven’t fully adapted to it, but
+they are becoming more aware.”
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200604/page/1/textview 3/3
+

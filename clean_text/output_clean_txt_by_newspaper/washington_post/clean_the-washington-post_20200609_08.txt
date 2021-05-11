@@ -1,0 +1,90 @@
+Voting by mail Trump attacks voting by mail, but analysis shows potential cheating is low
+Officials in three states identified fewer than 400 possibly fraudulent mail-in ballots over two general elections.
+As nearly every state expands its capacity for absentee voting this year, President Trump and his GOP allies have attacked the process as prone to rampant fraud.
+“MAIL-IN VOTING WILL LEAD TO MASSIVE FRAUD AND ABUSE,” Trump tweeted last month.
+“... WE CAN NEVER LET THIS TRAGEDY BEFALL OUR NATION.”
+But a Washington Post analysis of data collected by three vote-by-mail states with help from the nonprofit Electronic Registration Information Center (ERIC) found that officials identified just 372 possible cases of double voting or voting on behalf of deceased people out of about 14.6 million votes cast by mail in the 2016 and 2018 general elections, or 0.000025 percent.
+The figure reflects cases referred to law enforcement agencies in five elections held in Colorado, Oregon and Washington, where all voters proactively receive ballots in the mail for every election.
+The minuscule rate of potentially fraudulent ballots in those states adds support to assertions by election officials nationwide that with the right safeguards, mail voting is a secure method for conducting elections this year amid the threat of the novel coronavirus — undercutting the president’s claims.
+Until now, the polarized debate about ballot fraud has largely featured individual anecdotes from around the country of attempts to vote illegally.
+The voting figures from the three states examined by The Post provide a robust data set to measure the prevalence of possible fraud.
+Current and former election officials in the three states said allegations that mail voting fosters widespread cheating are not only defied by the data, but also do not acknowledge the sophisticated and tightly controlled ways that voting operates in their jurisdictions, which have layers of security designed specifically to root out fraud and build confidence in the system.
+“When I have the opportunity to give a tour of our facility to a skeptic of vote-by-mail or a skeptic of the process — someone concerned about fraud or security — they turn into believers,” said Julie Wise, elections director in King County, Wash., which includes Seattle and has operated a fully vote-by-mail system since 2009.
+Questions about the security of mail ballots have taken on new urgency in recent months as the voting landscape nationwide is transformed by the coronavirus pandemic.
+All voters in every state but two — Mississippi and Texas — now have the right to cast mail or absentee ballots for the midyear primaries after the pandemic led 14 states to relax their rules.
+Many states are now considering extending those changes for the general election in November.
+In the past two decades, Republicans and Democrats have embraced absentee and mail ballots as a way to make voting easier, expand participation and lower election costs.
+But Trump has attempted to sow doubts about the system’s security, repeatedly describing mail voting as a threat to the integrity of American elections.
+For the first time, Twitter responded last week by appending fact-checking labels to two of the president’s tweets claiming that mail ballots are “fraudulent” and would be “robbed” out of mailboxes or “even illegally printed out & fraudulently signed.” Trump responded with fury, claiming that Twitter was stifling free speech.
+Large-scale voting by mail “would be a free for all on cheating, forgery and the theft of Ballots,” he wrote in defiance of experts.
+“Whoever cheated the most would win.”
+Bill Bradbury, a Democrat who oversaw Oregon’s implementation of all-mail elections starting in 1999 as secretary of state, said the president is misleading the public.
+“It’s very discouraging to me to have him labeling the way we vote as totally fraudulent, which is just BS,” Bradbury said.
+“People go to jail if they try to cheat on elections in Oregon,” he added.
+“I just find that comment just not very smart and not based on the facts.”
+Election officials and security experts said certain measures are important for preventing fraud in mail voting, such as accurate voter rolls and a method of authenticating ballots such as signature matching.
+Such safeguards have been put in place over time in the five states that currently run universal mail elections: Colorado, Hawaii, Oregon, Utah and Washington.
+As states move quickly to expand mail voting in response to health concerns, not all have implemented the full range of security measures.
+““We’ve had so much time to really fine-tune those processes,” said Washington Secretary of State Kim Wyman, a leading Republican advocate for mail voting.
+“That’s probably my biggest concern with this rapid ramp-up to expand absentee voting or move to a vote-bymail model is: Do they have the time to build up that capacity?”
+The most recent high-profile case of ballot fraud took place in North Carolina, where the results of a 2018 congressional race were overturned amid an investigation of alleged absentee ballot tampering by a Republican operative, who was charged with felonies in an operation that is still under investigation.
+But election officials from Colorado, Oregon and Washington — which have conducted statewide mail elections for a combined four decades — said they have rarely, if ever, seen attempts to cheat their systems.
+“There are so many steps to this process that I can’t say it’s impossible, but to me, it’s nearly impossible,” said Joan Lopez, clerk and recorder of Arapahoe County, in the suburbs of Denver.
+“The process — it’s a lockdown.”
+Detecting fraud
+Despite long-running and increasingly politicized debates about voter fraud, an interstate effort to measure its prevalence emerged only in the past several years.
+Initial findings in the project are based on the work done by ERIC, a nonprofit consortium of 30 states that began in 2012 with assistance from the Pew Charitable Trusts to help states catch and erase errors from their voter rolls.
+This is accomplished with a sophisticated data-matching tool that compares registration lists between states and against other records, helping to identify duplicate registrations and entries for people who have moved or died.
+A 2016 pilot study found that the system could identify potential cases of improper voting by analyzing states’ voter history data to detect whether individuals voted twice, in multiple states or on behalf of a deceased person.
+States are responsible for distinguishing between administrative errors and potential fraud.
+After the 2016 study, 112 cases of potential fraud out of about 11 million ballots cast in five states were turned over to law enforcement authorities, or 0.00001 percent, according to states’ public announcements.
+Sixteen states participated in the study of the 2018 general election, but not all have released their figures.
+Those that have include two all-mail states: Colorado and Washington.
+Washington announced last month that it had referred 142 cases of suspected improper voting in 2018 to local election officials, or 0.00004 percent of the more than 3.1 million votes cast.
+Wyman, who has been involved with ERIC since its inception, said the data shows that fraud is far from common — “exactly what my gut was telling me.”
+“No rate is acceptable,” Wyman said of improper voting, adding that even the tiniest evidence “drives election officials crazy.”
+“But it is also not rampant fraud,” she said.
+Wise noted that any election involves risks of fraud or error but said she found it even more difficult to guarantee the integrity of the vote when she administered in-person contests, a process with its own vulnerabilities and complications.
+“T was never able to reconcile an election.
+I was never able to come to the canvassing board and say, ‘We have zero discrepancies.’ ...
+The points of opportunity for risk in polling places are extremely high in my book,” she said.
+Still, critics of mail ballots say they provide a bigger opening for fraud than in-person voting because state voter registration rolls contain errors and could allow ballots to be sent to ineligible voters or wrong addresses.
+And vote-buying schemes may be harder to detect in by-mail elections, as would voter coercion and intimidation, they note.
+“T view this as a real threat to the integrity of our elections,” Judicial Watch President Tom Fitton said of mail voting during a House subcommittee hearing last week.
+He added: “It’s the wrong way to vote if you’re concerned about secure voting.”
+Current and former election officials in vote-by-mail states said their systems are designed specifically to mitigate these risks, starting with a regular stream of mail contact with voters to establish that the address listed for them on the rolls is accurate.
+The ERIC system, as well as regular checks against
+DMV, death and other records, flag voter registration entries that may need updating.
+Federal law also requires states to conduct basic list maintenance.
+Once voting begins, the linchpin of the process is a ballot return envelope, which typically requires the voter’s signature and includes a unique bar code linked to that voter’s record.
+When the ballot is returned and the bar code is scanned, no other ballot can be cast by that voter for that election.
+“T hear chatter a lot about Washington state mailing millions of ballots into a black hole, into the wind,” said Julie Anderson, auditor of Pierce County, Wash., which includes Tacoma.
+She said many people don’t understand how the envelope design prevents double voting, comparing would-be cheaters to people who purchase a single movie ticket online and print dozens of copies with the goal of admitting others free.
+“When the attendant scans your bar code, that’s it,” she said.
+“All the tickets you gave your friends — they’re out of luck.”
+Other safeguards
+The other mainstay of election security in vote-by-mail states is the signature verification process.
+Election workers are trained by law enforcement agencies to detect when a signature on the ballot envelope does not match signatures in a voter’s file.
+Discrepancies trigger a review that could end with a voter proving his or her identity — or being reported to law enforcement for possible ballot tampering.
+“Every time I explain that every single signature is reviewed, it immediately shuts down any attempt at disqualifying mail ballots as fraught with voter fraud,” said Jocelyn Bucaro, director of elections for the city and county of Denver.
+“It’s next to impossible to manipulate an election through signature forgery.”
+In Multnomah County, Ore., which includes Portland, elections director Tim Scott said he could name two cases in 12 years where a person tried to intentionally vote with another person’s ballot.
+Typically, people just aren’t aware of the rules, he said.
+“When we challenge a voter on their signature, we send them a letter ... and sometimes they call us back and say, ‘Oh, well, I let my spouse or my roommate sign for me.
+I told them it was okay, so therefore it’s okay, right?’ They’ re not aware that signature is a piece of the security process,” Scott said.
+All-mail states have implemented a range of other safeguards to ensure ballots are secure at all times, including dropboxes under 24-hour surveillance cameras, rules that two people be present with any ballot from the moment of receipt or collection, and detailed logs and reconciliation rules that require votes to be accounted for, down to the ballot.
+The best available data indicates that voter fraud in all-mail elections is rare.
+The Post analyzed the total number of cases of suspected improper voting reported by state officials in five all-mail elections: the 2016 general elections in Colorado, Oregon and Washington and the 2018 general elections in Colorado and Washington.
+Of the five, the rate of potential improper voting ranged from 0.000014 percent in Colorado in 2016 to 0.00004 percent in Washington in 2018.
+It is unknown how many of the cases led to criminal charges.
+Separately, Oregon — which held its first statewide mail election in 1993 — had just 82 felony convictions under its election statutes between 1990 and 2019, according to public records obtained from the Oregon Criminal Justice Commission, a government panel.
+The total included convictions for crimes not related to mail voting.
+Even a database maintained by the Heritage Foundation, which conservatives frequently cite as evidence that voter fraud is prevalent, lists only 1,285 cases out of hundreds of millions of votes cast.
+The number of cases related to absentee ballots is even less — 204 in the past 20 years, compared with a quarter-billion votes cast by mail during that time, according to an April analysis of the Heritage data by Amber Mcreynolds, chief executive of the National Vote at Home Institute and a former Denver elections director, and Charles Stewart III, a political science professor at the Massachusetts Institute of Technology.
+Hans von Spakovsky, manager of Heritage’s election law reform initiative, said in a statement that the think tank’s database “is only a sampling, not a comprehensive list.”
+“But it demonstrates the vulnerability of our election system to those willing to exploit those vulnerabilities to win elections,” he added.
+The burden this year is on election officials who are less experienced with high-volume voting by mail and the range of practices required to do it securely.
+A number of states do not have a signature verification rule, including Connecticut, Maryland and New Hampshire, according to the National Conference of State Legislatures.
+States such as Alaska, Louisiana and Virginia require a witness to sign the ballot, but they do not match voters’ signatures.
+“There are so many steps to this process that I can’t say it’s impossible, but to me, it’s nearly impossible.”
+Joan Lopez, clerk and recorder of Arapahoe County, in the suburbs of Denver, on the ability to cheat

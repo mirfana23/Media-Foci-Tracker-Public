@@ -1,0 +1,107 @@
+Tech: Could Fitbits and wearables be an early warning system?
+Data from a wearable device can reveal coronavirus symptoms days before you even realize you’re sick, researchers have found in preliminary studies.
+4 ¥- te
+That means fitness trackers could be on their way to becoming sickness trackers.
+The initial findings from two academic studies are a small step in the fight against the coronavirus, and a giant leap for wearable tech.
+If Fitbits, Apple Watches and Oura smart rings prove to be an effective earlywarning system, they could help reopen communities and workplaces — and evolve from consumer tech novelties into health essentials.
+Since March, a half-dozen studies have been exploring whether the constant stream of data that wearables gather about our bodies offers any clue about who has caught the coronavirus.
+Last week, wearable maker Fitbit announced its own effort.
+I’ve been a guinea pig for two of the academic studies, though I prefer the term “citizen scientist.” (See below for how you can contribute to studies still recruiting volunteers.)
+For now, these aren’t clinical trials — rather, researchers are gathering data and looking at it retrospectively for patterns.
+The greatest potential might come from a lesser-known wearable I’ve been testing for the past five weeks: a health-tracking ring called Oura.
+The $300 wireless device looks like jewelry and collects data about my heart rate, breathing and — critically, for the coronavirus — temperature.
+The ring, made by a seven-year-old company based in Finland and the United States, is being used in two studies at West Virginia University and the University of California at San Francisco involving tens of thousands of health-care workers, first responders and volunteers like me.
+I also joined a Scripps Research study with a $400 Apple Watch, sending data to researchers exploring whether heart measurements from a range of popular trackers are enough to detect the coronavirus or other viral infections.
+None of the studies have yet published peer-reviewed results, but we’re getting the first evidence that the idea works.
+On Thursday, researchers at WVU’S Rockefeller Neuroscience
+6.
+17.
+Tech: Could Fitbits and wearables be an early warning system?
+other symptoms, can predict up to three days in advance when people will register a fever, coughing or shortness of breath.
+It can even predict someone’s exact temperature, like a weather forecast for the body.
+Professor Ali Rezai, the institute’s director, said the technology is valuable because it’s tuned to reveal infection early on, when patients are highly contagious but don’t know it.
+He calls the combination of the smart ring and app a kind of “digital PPE,” or personal protective equipment.
+‘It can say, “This individual needs to stay home and not come in and infect others,’" he said.
+There’s more: Researchers at Stanford University studying changes in heart rate from Fitbits tell me they’ve been able to detect the coronavirus before or at the time of diagnosis in 11 of 14 confirmed patients they’ve studied.
+In this initial analysis, they could see one patient’s heart rate jump nine days before the person reported symptoms.
+In other cases, they only saw evidence of infection in the data when patients noticed symptoms themselves.
+“The bottom line is it is working, but it’s not perfect,” said Stanford professor Michael Snyder.
+Given the hype that often engulfs consumer gadgets, there’s plenty of reason for caution about tech charting an unknown path with a disease that’s still a mystery in many ways.
+Researchers still need to crunch more numbers to identify the difference between a patient with the coronavirus and another illness.
+And they need to do a lot more coronavirus testing on study participants to figure out whether they can detect an infection in people who don’t feel symptoms at all.
+And we’re weeks — or more probably months, say moreconservative researchers — away from turning all those insights into warning systems that can be clinically tested.
+“T haven’t seen that subtlety embraced by most tech companies,” said Ben Smarr, a professor at the University of California at San Diego who is helping lead the data-crunching on the UCSF study, which hasn’t reported results.
+“I’m wary because I don’t want this to be used to sell people a false solution or false hope.”
+From counting steps to predicting infection
+Accuracy is the question that hangs over detecting the coronavirus from a gadget.
+Fitness trackers started as a way to count steps, a relatively lowstakes measure.
+Marketers pushed the idea that everyone should take 10,000 steps per day, but it was never rooted in much science.
+As tech companies have grown more interested in health care, they have added more sensors to wearables.
+Fitbits now collect heart data, and Google agreed to buy the company last year to get closer to the bodies of millions.
+Apple was the first to receive Food and Drug Administration clearance for an Apple Watch app that could identify an atrial fibrillation.
+Past studies have been able link wearables data to undetected issues like high blood pressure, arrhythmia and early stage cancer, and use it to improve realtime tracking of seasonal flu outbreaks.
+Researchers say the coronavirus could be a game changer.
+“Because everybody is going through this, it is an opportunity for us to collect data from essentially the entire population, which is very unique,” said Duke University professor Ryan Shaw.
+He’s helping lead the university’s coronavirus smartphone and smartwatch study called Covidentify, which has yet to report findings.
+But how do you extract health information from devices that, for the most part, aren’t designed or used like medical devices?
+Wearable researchers I spoke to say they treat the data not as an individual measurement, but rather as a baseline — a view of what’s “normal” for your body, from which they can spot deviations.
+Then the researchers feed weeks of historical data into software that hunts for patterns.
+These algorithms are able to spot things humans usually don’t notice about their own bodies, like a slightly elevated resting heart rate.
+Subtle changes in temperature, heart rate variability and sleep patterns allow the software to make predictions about what is likely to come in the days ahead.
+The studies at Duke, Scripps and Stanford are largely open to data from whatever wearable devices participants might own.
+Some sort of fitness tracker is used by 1 in 5 Americans, according to Gallup, and being agnostic helps researchers reach a wider audience.
+There are questions about the accuracy of the data produced by some products.
+“We don’t believe that any of the devices that we’re using in our study are bad enough that we wouldn’t be able to capture the signals that we expect to capture,” Duke professor Jessilyn Dunn told me.
+A study she helped write found heart rate sensors — which shine green light through the skin — didn’t have significantly more difficulty with darker skin.
+Still, Dunn said, her software gives different weight to data from different manufacturers and models.
+The Oura ring, with about 150,000 users, isn’t nearly as popular as smartwatches and fitness trackers.
+But it offers several advantages, researchers say.
+First, the ring is small.
+That means people are more likely to wear it even while they sleep, the best time to collect an accurate resting heart rate critical to understanding the body’s baseline.
+My Apple Watch, which I typically charge while I’m sleeping, reports that my resting heart rate is eight beats per minute higher than what is reported by the Oura, which I wear while I sleep.
+Sara Belch, a nurse manager in Morgantown, W.VA., who joined the RNI study, said she wears her ring 24 hours a day, even when she’s working, and only needs to charge it every four or five days.
+“It’s smooth, and I don’t feel any different wearing it,” she said.
+The Oura is also able to collect temperature from the finger, a data point missing from most wrist wearables.
+One of the theories being tested by the UCSF study, called Tempredict, is that people with latent coronavirus infections can exhibit body temperature changes visible through constant monitoring.
+Oura donated some rings to the UCSF study and gave researchers at both UCSF and RNI access to raw data from participants.
+Both research projects say they’re independent from the company.
+The other critical element for the studies is data that doesn’t come from a wearable.
+All of them ask participants to check in regularly via apps and websites to report symptoms such as coughing or the results of any coronavirus tests.
+The RNI study is the most demanding.
+Participants have to check in via its special app twice daily, including participating in games that test attention and other brain functions.
+They also take and report their temperature with a traditional thermometer, with results sometimes verified by a professional.
+RNI said its software is more than 90 percent accurate at forecasting the onset of coronavirus symptoms.
+But that is based on the population it has studied — so far, a little more than 600 health-care workers and first responders.
+To detect the coronavirus, as opposed to just symptoms, Rezai said they’ ll need more participants to train algorithms to pick up on the many, sometimes unexpected ways diverse bodies respond to the virus.
+On Thursday, RNI’S study opened up to 10,000 more volunteers.
+Scripps, Stanford and Fitbit have announced a consortium that will let them share aggregated data while running their studies independently.
+Turning research into a warning system
+There’s wide agreement that wearables can produce useful data.
+But turning it into earlywarning systems brings a whole different set of challenges.
+Not least among them is privacy.
+To participate in the research, I had to agree to near constant monitoring of my body.
+The Oura ring records my heart rate and temperature in onesecond increments.
+The next step will be for researchers to conduct trials where they pass real-time warnings back to study participants based on their own data.
+None have done that yet, because
+they’ re limited by academic research rules.
+Snyder is seeking approval from Stanford in the next few weeks to begin providing feedback to a small set of participants.
+Smarr said the UCSF study could reach that point as soon as the fall.
+Taking those systems to millions of people might require permission from the FDA, which regulates medical diagnostics.
+It’s a gray zone.
+The question is: Would an app be making a lifestyle suggestion (“you seem off today”) or offering a coronavirus test?
+Making people think they’ re fine could be disastrous if they make decisions about exposure based on a bad diagnosis.
+Wearable tech currently negotiates that space with lots of disclaimers.
+Oura goes further than most in giving users advice about how their bodies are faring from day-to-day.
+It turns heart rate, sleep, activity and other data into a daily “readiness” score that suggests how much activity or rest you might need to optimize the day ahead.
+For at least one Oura user, that score alone turned out to be a valuable coronavirus warning.
+In early March, Finnish entrepreneur Petri Hollmén had been traveling, including to areas of Europe that were coronavirus hot spots.
+But he was feeling fine.
+Then one morning, he opened his Oura app and saw that it gave him a readiness score of 54, far below his typical 80 to 90.
+The app said it had noticed a 1-degree Celsius — or 1.8-degrees Fahrenheit — increase in his temperature.
+So even though he had no symptoms, Hollmén went for a coronavirus test — and, sure enough, tested positive.
+“I didn’t feel ill,” he told me.
+But because of the diagnosis, he and his family members isolated at home until the infection passed.
+His experience, which partly inspired the UCSF study, is a reminder of one more critical piece to any early-warning tech: We have to be able to do something with the information.
+“Tt has to be paired with action like staying home and access to diagnostic tests to reduce false positives,” said Jennifer Radin, who is leading the Scripps study.
+“There are, of course, many other reasons why your resting heart rate can go up, like if you’re stressed or you change your exercise program.”
+More at washingtonpost.com/ technology

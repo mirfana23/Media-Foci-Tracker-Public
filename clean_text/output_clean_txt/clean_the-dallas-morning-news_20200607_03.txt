@@ -1,0 +1,85 @@
+Region in a delicate balance
+Surge hasn’t hit, but experts say conditions, behaviors could fuel increase amid unpredictability
+The Dallas Morning News - 7 Jun 2020 - 1A - By ANNA KUCHMENT and SUE AMBROSE Staff Writers
+After Texas Gov.
+Greg Abbott began letting businesses reopen on May 1, medical experts and government officials expected new coronavirus cases to rise as more people ventured outside their homes.
+——— ee T a
+Asteep surge didn’t materialize right away in North Texas, according to data from county health departments and hospitals.
+Emerging evidence suggests that’s partly because many North Texans continued sticking close to home and took precautions when they went out.
+Still, experts said, the region is in a delicate balance right now, and could quickly tip into dangerous territory.
+Last week, Dallas County reported a series of recordhigh daily cases of COVID19.
+Medical experts said those high numbers could come from expanded testing and do not necessarily signal a new wave of infections.
+In a news conference Thursday, Dr. Philip Huang, director of the Dallas County Health Department, said some of the recent increases may be tied to an effort to test every nursing home resident and staffer for COVID19.
+Backing up Huang’s explanation are
+forecasts from local experts that project flat or declining COVID19 hospitalization rates in the area in coming weeks.
+The current uncertainty shows how difficult it is to predict even the near term with a brandnew virus.
+Disease experts know the basics still hold true: More contact means more chance for disease.
+But conditions that affect transmission of the coronavirus are changing constantly.
+Some people wear masks; others don’t.
+Businesses are not back to normal operations, but are gradually letting in more customers.
+And it’s tough for health experts to track the true burden of disease in the community at any given time.
+Some people don’t realize they have COVID19 symptoms; others don’t want to get tested, and the results can take more than a week.
+Blurring the picture even further is the fact that state data on the number of tests conducted by each county is not up to date.
+The number of people hospitalized for COVID19 stayed relatively flat in May.
+Hospitalizations are considered the most solid indicator of the course of the epidemic, experts said.
+That’s because hospitals are sure which patients have the disease.
+But hospital data reflects only how many people became infected two or three weeks earlier.
+Forecasts are more reliable when new infections are rising or falling, said Rajesh Nandy, a statistician at the University of North Texas Health Science Center at Fort Worth.
+“But once things become stagnant, the models are not that good at predicting,” he said.
+Acting independently
+Part of the reason there wasn’t a sudden surge in cases may be that lifting the lockdown didn’t suddenly change behaviors.
+That’s according to an analysis Nandy did using cellphone data that reflects people’s mobility.
+Even before Abbott issued stayathome orders, Nandy found, people began to put themselves on lockdown: Visits to retail locations dropped and time spent at home climbed.
+In the middle of April, halfway through the statewide lockdown, North Texans start
+ed to venture out more.
+That trend didn’t suddenly change when the lockdown ended at the end of April — it simply continued on the same trajectory.
+Still, as of last week, visits to retail establishments and restaurants were about 17 percent lower than prepandemic levels.
+In fact, Nandy said, mobility patterns across the country all look similar over the past few months, no matter when — or whether — governors issued statewide lockdowns.
+“What that tells me is that as soon as people realized this was a serious public health issue, they took measures themselves,” he said.
+“People are making collective decisions based on how safe they feel.”
+It’s unclear whether the gradually increasing mobility is a harbinger of more infections, Nandy said.
+Much depends on how people behave when they are out and about.
+He thinks, however, that people will respond to media coverage of cases and will adjust their behavior.
+How much that will help limit new infections remains to be seen.
+Mixed messages
+Some worry that the general public is not getting a clear message about the continued importance of social distancing.
+“T’ve noticed a lot of confusion with our patients, because they think that because the state has reopened that means that everything is fine,” said Dr. Sharon Davis, chief medical officer of the West Dallasbased Los Barrios Unidos Community Clinic.
+“We try to communicate with patients, saying that we still need to wear masks, and we still need to socially distance.”
+Davis also is concerned the recent protests over the death of George Floyd, which brought hundreds of people into the streets at a time when health officials recommend people avoid gathering in groups, could trigger new infections.
+“My heart is broken for what’s happened in the first place,” said Davis.
+“[{People’s] voices need to be heard, but it’s such a terrible time to be out right now.”
+She said there should be more public messaging around the importance of wearing masks and keeping one’s distance from others.
+“I feel like there should be billboards everywhere.
+It should just become the new normal,” Davis said.
+Hospitalizations flat
+Despite the record case counts in Dallas County, medical experts in North Texas continue to project flattened disease curves for now.
+“We continue to see a flattening or plateau in terms of the number of patients being admitted or requiring ICU care,” said Dr. Miguel Benet, chief medical officer of the Medical City Healthcare hospital chain.
+Projections from those facilities show “a plateau with a slight decreasing slope” over the next two weeks, he said.
+Medical City Healthcare’s forecast incorporates daily new positive COVID19 cases reported by county health departments, internal hospital data on admissions, use of intensive care beds, ventilator demand and other data points.
+The projections cover four DFW counties — Dallas, Tarrant, Denton and Collin — and are based on data from the 16 North Texasbased hospitals in Medical City Healthcare’s network.
+Benet attributes the recent increase in positive cases reported by Dallas County to expanded testing.
+Medical City HealthCare has begun testing all of its surgical and obstetrics patients for the virus as well as residents coming in or out of nursing homes.
+Its CareNow Urgent Care clinics have expanded testing as well.
+Dallas County officials also have said that expanded testing, primarily in nursing homes, could account for the rising cases.
+Dallas County epidemiologist Wendy Chung said that between May 31 and June 4, about 130 nursing home residents and 70 staff were reported as new cases.
+New cases in Dallas County have averaged 260 a day over the past seven.
+Fewer cases by July?
+In midMay, experts at UT Southwestern Medical Center projected that new daily cases could surge more than threefold, to 800 per day, by July in Dallas County.
+Their latest forecast, updated May 29, shows daily case counts falling to just below 200 by July.
+“This is good news,” said Dr. Trish Perl, chief of the division of infectious diseases at UT Southwestern.
+She credited government stayathome orders and individual social distancing measures for helping keep the disease from skyrocketing so far.
+But she cautioned that cases could start climbing again quickly as businesses continue to open and if people let down their guard.
+The UT Southwestern forecast is based on estimates of how rapidly the disease is spreading from person to person in Dallas County.
+Social distancing affects how quickly the disease is transmitted.
+When the researchers released their forecast, cellphone mobility data showed that encounters between people were climbing steeply.
+Those interactions had leveled off as of the latest forecast, which was released before the recent protests.
+Perl cautioned that North Texas may not have seen the full effects of loosened restrictions.
+“The opening has been done very carefully and slowly,” she said.
+“So I just think it’s going to take a little while.”
+Statewide projection
+An analysis of deaths from COVID19 also signals that the disease is not currently exploding.
+According to scientists with the UTAustin COVID19 Modeling Consortium, Texas deaths peaked in late April or early May and are predicted to decline at least through late June.
+Consortium director Lauren Ancel Meyers said in an email that the projections are no guarantee of what lies ahead.
+“We don’t have a crystal ball to predict the decisions that people and policymakers are going to make in the coming weeks and months,” she said.
+“If people continue to take steps to protect themselves and others from infections, then Texas cities may not experience a second wave this summer.
+If we don’t, then the virus will begin to spread more rapidly.”

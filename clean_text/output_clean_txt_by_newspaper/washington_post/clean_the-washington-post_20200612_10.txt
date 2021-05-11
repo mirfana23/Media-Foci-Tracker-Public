@@ -1,0 +1,53 @@
+Tried and true:
+Old vaccines are being given a closer look.
+i : ) 2a
+Two tried-and-true vaccines — a century-old inoculation against tuberculosis and a decades-old polio vaccine once given as a sugar cube — are being evaluated to see if they can offer limited protection against the coronavirus.
+Tests are already underway to see if the TB vaccine can slow the novel coronavirus, while other researchers writing in a scientific journal Thursday propose using the polio vaccine, which once was melted on children’s tongues.
+The old vaccines are oddities among the cutting-edge and targeted technologies being developed to combat the novel coronavirus.
+New vaccines aim to teach the body’s immune system to recognize and destroy the coronavirus, but scientists are only now beginning to test them in people.
+Vaccines developed against TB and polio have already been used in millions of people and could offer a low-risk way to rev up the body’s first line of defense — the innate immune system — against a broad array of pathogens, including the coronavirus.
+“This is the only vaccine in the world that can be given to combat covid-19 right now,” said Jeffrey D. Cirillo, a professor of microbial pathogenesis and immunology at Texas A&M Health Science Center, who is leading a trial of the tuberculosis vaccine, called bacillus Calmette- Guérin and known by the shorthand BCG.
+The BCG vaccine, Cirillo noted, is already approved by the Food and Drug Administration and has a lengthy record of being used safely.
+Scientists are betting on an underappreciated facet of the body’s immune system.
+Vaccines are designed to teach it to develop a memory of a particular pathogen.
+But over the years, vaccines that use live, weakened pathogens have been shown to have potent off-target effects, activating other components of the immune response to beat back other infections, including respiratory diseases.
+The idea isn’t necessarily that those vaccines could altogether prevent covid-19, the disease caused by the novel coronavirus, but that they might lessen the severity of disease and prepare the innate immune system to fight off the virus for a short period of time.
+Research comparing rates of coronavirus infections in countries that widely use the tuberculosis vaccine against those that do not initially drew attention to the idea that the inoculation could offer protection, spurring ongoing trials in the United States, the Netherlands and Australia.
+A group of prominent researchers working to raise money to test the oral polio vaccine in 11,000 people described their ambitions in a paper published Thursday in the journal Science.
+If shown effective, those vaccines could potentially provide protection against the second wave of the coronavirus, which is likely to crest before a vaccine is widely available.
+Azra Raza, a professor of medicine at Columbia University Medical Center, said BCG can improve people’s ability to fight off other pathogens, even for patients who are given the vaccine for another approved use, against bladder cancer.
+Raza said “the thing that shocked me” was the relatively low death rates from covid-19 in Pakistan and other countries.
+Pakistan, a nation of 212 million that is widely vaccinated with BCG, has reported 2,356 covid-19 deaths as of Friday, while the United States, a nation of 330 million that has two-thirds of the world’s unvaccinated population, has recorded more than 112,000 deaths.
+“It’s not like they’re not getting the infection,” she said.
+“The rate [of positive infections] is high.
+But they’re just not dying.
+It is raging through, but they’ re not dying of it.”
+But cross-country comparisons showing that some nations with different BCG use had fewer cases of covid-19 are far from conclusive.
+Many other factors, such as differences in testing and health-care systems — and even migration of people between countries with different BCG vaccine policies — could account for some of the differences.
+Brazil has a raging outbreak despite broadly using the BCG vaccine.
+The scientific literature is filling with conflicting studies, with titles that show the lack of consensus: “A shred of evidence that BCG vaccine may protect against COVID-19” and “BCG protects against COVID-19?
+A word of caution.”
+A large study of deaths in Israel cast doubt.
+“The BCG vaccine was routinely administered to all newborns in Israel as part of the national immunization program between 1955 and 1982,” the study said.
+“Since 1982, the vaccine has been administered only to immigrants from countries with high prevalence of tuberculosis.” The result?
+No significant difference between those who received the vaccine and those who didn’t.
+“Facts have a nasty habit of overturning circumstantial evidence,” Raza said, adding that the
+“only way to prove it is through future prospective trials.”
+Konstantin Chumakov, associate director of research at the Food and Drug Administration’s Office of Vaccines Research and Review, said when he was growing up in the Soviet Union, his parents — vaccine researchers who studied the off-target effects of the oral polio vaccine in the 1960s and 1970s — gave him the vaccine every fall before the influenza season because of evidence it provided broad protection.
+Chumakov is working to raise money to test the polio vaccine against covid-19 with Robert Gallo, a famed HIV researcher and director of the Institute of Human Virology at the University of Maryland School of Medicine.
+Outside researchers and proponents of the theory that such vaccines could afford protection agree it is crucial to conduct trials to see if the vaccines afford extra protection against other infections before using them.
+The World Health Organization has warned there is not yet evidence that BCG protects against covid19.
+Michael J. Buchmeier, a professor in the division of infectious diseases at the University of California at Irvine, said there was a risk that such vaccines could have the opposite of the intended effect, making the immune response too strong.
+“In its extreme,” Buchmeier said, “this results in the cytokine storm” that can have catastrophic effects on the body.
+“You’re really kind of gambling with probabilities that you have no control over,” Buchmeier said.
+Vincent Racaniello, a professor of microbiology and immunology at Columbia University, said in an email that a trial could help answer if the oral polio vaccine works.
+But he expressed concerns that people given the polio vaccine will shed virus capable of infecting people.
+When that virus enters sewage and circulates in water systems, it could pose a risk especially in countries with lower immunization rates — at a time the world is working to eradicate polio.
+“It is a safe and readily available vaccine that is easily administered — taken by mouth,” Racaniello said.
+“If it confers three to four months’ protection, it would be useful for health-care workers, especially for the fall when infections with SARSCOV-2 increase again.”
+The answer to the question, like everything in the pandemic, can’t come soon enough.
+The trial led by Cirillo in Texas has enrolled 450 of its intended 1,800 participants and has vaccinated about a third so far.
+The effort to test the oral polio vaccine is still awaiting funding.
+If a trial can show either vaccine has a protective effect, it could have repercussions far into the future, as a first-line of defense as scientists chase new outbreaks.
+“Tf it works, it really has great potential against future pandemics, not just this one,” said Shyam Kottilil, director of the Clinical Care and Research Division of the Institute of Human Virology at the University of Maryland School of Medicine.
+“It takes a year, year and a half [to develop a new vaccine], and during that time a lot of people lose their lives.”

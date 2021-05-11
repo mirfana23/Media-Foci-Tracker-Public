@@ -1,0 +1,71 @@
+Reassessing infection rate
+A new survey suggests the novel coronavirus may not have spread as widely as thought in L.A. County.
+Los Angeles Times - 5 Jun 2020 - A‘ - By Rong-Gong Lin Il
+One of the most pressing questions public health officials are trying to answer about the novel coronavirus is how many people actually have been infected by it.
+Have a relatively significant portion of Californians been infected with the virus but survived without much problem?
+Or has the virus touched only a tiny sliver of California, suggesting the chances of serious illness are greater if you’re infected?
+In April, controversial studies out of Stanford University and USC suggested that the coronavirus had circulated much more widely than previously thought in Silicon Valley and Los Angeles County.
+Almost immediately, questions arose from other epidemiologists around the country about whether those estimates were too high.
+To figure out how many people in L.A. County had evidence of past infection, researchers aimed to test a representative sample of the county’s 7.9 million adults to see if they had antibodies to the virus.
+The presence of antibodies indicates that the body has been infected before, and that the body’s immune system responded to it.
+The original study of 863
+adults tested in L.A. County between April 10 and April 14 found that 4.1% tested positive for coronavirus antibodies.
+That’s equivalent to about 322,000 L.A. County adults.
+When factoring in false positives and negatives and adjusting for demographics — because those tested were disproportionately more white and higher-income than the actual demographics of the county — scientists estimated that 4.65% of L.A. County residents tested positive for the antibodies.
+Then in May, the same researchers from USC and L.A. County repeated the study with different people at different sites.
+The new study’s results were dramatically different: Only 2.1% tested positive for antibodies.
+This time, 1,014 adults were tested in the county between May 8 and 12.
+The results suggest that only about 165,000 L.A. County adults have antibodies to the coronavirus — an estimate nearly 50% lower than the first study’s results.
+What to make of the changes is the subject of much debate.
+6.
+17.
+Reassessing infection rate
+The new results also may mean that the coronavirus might be deadlier than previously suggested by the first survey in L.A. County, said Neeraj Sood, the L.A. County study’s leader and a professor at USC’s Sol Price School of Public Policy.
+Sood said the average of the two results would lead him to guess that roughly 3% of L.A. County adults, or 236,000 people, have been infected with the coronavirus.
+The findings underscore that many more studies are needed before we better understand how widely the disease has spread.
+Scientists in L.A. County and at USC said there were a number of reasons for the differing results.
+The latest study made an effort to include Mandarin and Spanish speakers, which was not done in the prior survey, and there was a concerted effort to test more blacks, Latinos and Asian Americans.
+Different testing sites were also chosen.
+Random chance could also be a reason.
+“If you toss a coin 10 times, you don’t always get five heads.
+Sometimes you might get one head and sometimes you might get all 10 as a head,” said Sood, who is also an author of the Stanford report, at a recent press conference.
+“Some of this random variation and outcomes could also explain differences in testing positive,” Sood said.
+There’s another reason, although it is highly speculative: People are seeing antibodies to the coronavirus decline in the months after recovering from infection.
+“Antibody levels may have waned amongst persons who had been infected early in the pandemic prior to the safer-at-home order,” said Barbara Ferrer, director of public health in L.A. County.
+The order was implemented March 19.
+“TI want to emphasize that this is completely speculative at this time.
+We haven’t fully investigated this issue, but this is something we will look at,” Sood said.
+“This is right now just a potential explanation.
+It doesn’t mean that we think this is a likely explanation.” While lab tests can detect antibody levels at lower amounts, the tests the scientists used for the study detect a specific amount of antibodies only above a certain arbitrary threshold, Sood said in an interview.
+Ferrer said it’l] be important to do more surveys with more people in the coming months, and also test other populations not represented in the survey, like those experiencing homelessness and living without shelter or those living in jails and nursing homes.
+“The survey may also not have captured the experiences of those who live in extreme poverty.
+So plans are underway to do special studies for high-risk populations,” Ferrer said.
+Children will also be tested in a later survey.
+It’s also possible the first L.A. County study was simply problematic.
+The first studies of antibody prevalence in L.A. and Santa Clara counties came under criticism by other epidemiologists, who thought it was an overestimate.
+The simplest answer is that the first L.A. County study had too many false positives, said Dr. George Rutherford, epidemiologist and infectious-diseases expert at UC San Francisco.
+“T suspect what was really going on was ... they overestimated to start with and now they’re coming out with probably a closer estimate.”
+Rutherford said he thought losing antibodies to the coronavirus is the least likely explanation for the difference in results between the two studies.
+When a disease is quite rare in the general population, there’s a well-known risk that a study will find too many false positives, Rutherford said.
+To deal with that risk, you don’t release the first study’s results immediately; you run a second test using a different technique on the first set of lab specimens, Rutherford said.
+The second test would try to identify the existence of the antibody that’s related to a different part of the coronavirus.
+“Then if you have both of those positive ... it’s a lot closer to being a true positive than doing a single test,” Rutherford said.
+Rutherford said across California, he suspects that 1% of residents have been infected with the coronavirus at some point.
+It could be higher in Los Angeles County, but Rutherford said he thought even a 2% prevalence rate for L.A. County may be slightly high.
+Rutherford also suspects the estimate that 21% of New York City residents have been infected with the coronavirus is too high, and he could see it perhaps being 10%.
+Rutherford is embarking on a study of 1,200 people who have previously tested negative for the coronavirus in six counties of the San Francisco Bay Area to determine the number of new cases per person over time.
+He said he suspects 1% to 1.5% of the people he’s studying will become positive, and it could rise if the outbreak gets worse.
+Sood defended the methodology of the first study, which he said did account for the risk of too many false positives.
+Sood said the goal of the study was to generate the results quickly and within a budget, and as a result, the lab specimens were tested only once before they were made public.
+Sood also said the test his team used, sold by Minneapolis-based Premier Biotech, was informally evaluated by the U.S. Food and Drug Administration for accuracy and had good results: The FDA found a 0% false positive rate and a 7% false negative rate, Sood said.
+The FDA has allowed Premier Biotech’s coronavirus antibody test to be used for research purposes but not yet for clinical purposes.
+Finally, Sood said his study’s results are consistent with what he says is the U.S. Centers for Disease Control and Prevention’s best guess of the case-fatality rate.
+Of everyone infected by the virus, an estimated 0.26% will die, according to calculations Sood did based on data on the CDC’s website.
+That case-fatality rate matches what actually happened in L.A. County by April 24, when a cumulative 850 deaths had been recorded, and Sood’s estimate of 324,000 having been infected three weeks prior to that date.
+It can take roughly three weeks from exposure to the virus to die from COVID-19, according to CDC estimates.
+There remains uncertainty over how deadly the coronavirus is for those who are infected by it.
+Other experts have said they suspect that 1% of people who are infected with the virus will die, a rate four times as large as the figure Sood calculated based on CDC data.
+One thing is clear: The vast majority of L.A. County residents have not been infected and are susceptible to getting sick.
+It means L.A. County’s stay-at-home order has been effective at curbing the spread of disease.
+But it also means L.A. County is nowhere near most of its population being immune to the virus, and the region will have to think of policies that can protect the population in the next two years or so before a vaccine might be available.
+If you take the average of the two study results, “that still means we probably have 97% of the people still susceptible,” said Dr. Robert Kim-Farley, medical epidemiologist and infectious diseases expert at the UCLA Fielding School of Public Health.

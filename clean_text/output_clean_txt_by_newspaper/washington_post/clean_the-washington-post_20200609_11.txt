@@ -1,0 +1,106 @@
+State reporting: CDC wants data on probable cases, deaths.
+Fewer than half the states are following federal recommendations to report probable novel coronavirus cases and deaths, marking what experts say is an unusual break with public health practices that leads to inconsistent data collection and undercounts of the disease’s impact.
+A Washington Post review found that the states not disclosing probable cases and deaths include some of the largest: California, Florida, North Carolina and New York.
+That is one reason government officials and public health experts say the virus’s true toll is above the U.S. tally as of Sunday of about 1.9 million coronavirus cases and 109,000 deaths — benchmarks that shape policymaking and public opinion on the pandemic.
+The U.S. Centers for Disease Control and Prevention works closely with a group of health officials called the Council of State and Territorial Epidemiologists to issue guidelines for tracking certain illnesses.
+The guidelines are voluntary, though states generally comply.
+The goal: solid comparisons between states and accurate national statistics that inform public health decision-making.
+In April, as coronavirus infections multiplied and laboratory testing was limited, the CSTE and the CDC advised states to count both probable cases and deaths — where symptoms and exposure pointed to infection — along with those confirmed by tests.
+Yet weeks after the guidance was handed down to standardize coronavirus reporting, a Post review found states as of early June counting cases and deaths in all sorts of ways.
+At least 24 states are not heeding the national guidelines on reporting probable cases and deaths, despite previously identifying probable cases in other national outbreaks, including H1Ni flu during the country’s last pandemic in 2009.
+The failure of many states to document probable coronavirus cases and deaths is “historic in many ways because there are lots of probable case classifications and probables are regularly and normally reported on,” said Janet Hamilton, the CSTE executive director.
+“We are definitely concerned about the undercounting of covid-19 deaths and cases.”
+New Jersey says it began reporting probable cases and deaths to the CDC on May 15 but does not disclose them publicly on its website.
+Georgia says it tracks the information internally but is not reporting those numbers on its website or to the CDC.
+“We do have intentions of sharing them but not yet,” said Nancy Nydam, a spokeswoman for the Georgia Department of Public Health, who said as of late May the department had tracked 1,658 probable cases and potentially dozens of probable deaths.
+Officials in Montana, Rhode Island and the District of Columbia say they haven’t reported any probable cases or deaths because they have not had any, citing low numbers or the wide availability of testing.
+Seven states did not respond to The Post’s requests for a breakdown of cases and death counts.
+Five of those are not reporting probable cases or deaths, according to data the CDC began publishing June 2.
+South Dakota reports probable deaths but not cases.
+Officials in the remaining 17 states say they are reporting probable and confirmed coronavirus cases and deaths on their websites and to the CDC.
+Some states distinguish between probable and confirmed while others group them.
+In some states not reporting probable cases, officials cite the demands of an unprecedented crisis in which Americans press for daily updates from public health data systems that are chronically underfunded and outdated.
+In Washington state, where many of the nation’s first deaths occurred, health department spokeswoman Lisa Stromme Warren said documenting probable cases and deaths “is one of many urgent priorities.” The state has identified about 100 people whose death certificates list covid-19 but were never tested, so they are not included in the public death count or reported to the CDC.
+“We suspect that we are actually more likely to be undercounting deaths than overcounting them,” Katie Hutchinson, the health department’s health statistics manager, said during a recent briefing.
+CDC spokeswoman Kristen Nordlund said that the agency is working with health departments to improve the flow of data.
+“In pandemic circumstances, such as with covid-19, collecting complete information on each case is challenging,” Nordlund said.
+“The current case and deaths counts reported to CDC are likely an undercount.”
+During the H1N1 flu pandemic, states initially counted probable and confirmed cases individually.
+But about three months into the outbreak, the CDC said those individual counts represented “only a fraction of the true burden” of the disease.
+The agency stopped collecting individual case reports and instead began publishing estimates based on hospitalizations, symptoms and other data.
+The CDC is planning to come up with similar estimates for the coronavirus but has no immediate plans to stop counting individual cases.
+“CDC is actively working on a model to address and assess the true burden of covid-19 in the U.S.,” Nordlund said.
+All eyes on numbers
+For government officials assessing how quickly to reopen the economy and individuals deciding what risks to take, their daily judgment calls are based, in part, on the case and death counts publicized on television and computer screens.
+That has propelled the pandemic counts into the contentious political arena, where some allies of President Trump and conservative voices on social media have claimed that the covid-19 death toll is inflated.
+The debate over whether counts of probables are crucial or misleading extends beyond the nation’s capital.
+In Illinois, two Republican lawmakers and three businesses have sued the Democratic governor over coronavirus disaster orders.
+A spokeswoman for the health department, Melaney Arnold, said the state is not divulging probable deaths on its website “because there is concern from the public that the number of deaths is being inflated.
+... We need the public to have confidence in the data and therefore are reporting only those deaths that are laboratory confirmed.”
+The state website lists about 5,700 deaths as of June 5, excluding the approximately 185 probable deaths tracked internally as of that day and reported to the CDC.
+But a resident looking at a state chart and then turning to the CDC might not find the same numbers.
+The newly posted CDC table does not reflect the probables that officials in some states said they have reported.
+Officials say that’s because the reports sent to the CDC include those with confirmed cases in one figure and because the national update can run slightly behind state websites.
+Since the 1950s, CSTE has recommended which diseases states should track and what those reports to the federal government should look like.
+The CDC works closely with the epidemiologists’ council and adopts its guidelines to “enable public health officials to classify and count cases consistently across reporting jurisdictions,” according to the CDC website.
+States usually follow these recommendations and report the incidence of dozens of different diseases to the CDC, with some exceptions.
+“Tt’s more of a handshake agreement between the states and CDC that we will send you the data in this way so that you can then aggregate it,” said Kathy Turner, Idaho’s deputy epidemiologist.
+“In general there’s no argument.
+We all do it because we realize the importance of being able to look at a disease on a national level.”
+Some reportable diseases rarely result in deaths, so CSTE directives have typically focused on how to count cases, not fatalities.
+Then came the coronavirus and a mushrooming death toll.
+The CDC acknowledged in early April that the death count was an “underestimation” because it included only fatalities in which the virus was laboratory-confirmed.
+Testing shortages, people dying at home or in nursing homes, and spotty postmortem testing meant victims were overlooked.
+“When the outbreak first started and we were all just counting lab-confirmed cases by default, it became clear that we were not going to be able to describe the burden of the pandemic because so many people were not being tested,” said Turner, lead author of the CSTE statement on covid-19.
+“We usually don’t approach a death separately from a case, but in this situation we decided it was needed,” she said.
+The CSTE recommended reporting probable and confirmed cases and deaths on April 5.
+The CDC’S written response to the recommendations, which was shared with The Post, said the agency “concurs” and that adoption by states is “very important” for covid-19 record-keeping.
+On April 14, the CDC noted on its website that the national tally includes probables, although the agency did not at that time provide a state-by state breakdown.
+Probable cases were defined as showing symptoms and having contact with an infected person, or meeting one of those criteria and testing positive for coronavirus antibodies, rather than for the virus itself.
+Probable deaths meant those who were never tested for the virus but whose death certificates listed covid-19 as the cause of death or a significant condition contributing to death.
+The CSTE statement also says that confirmed and probable counts should be included in the tallies “released outside the public health agency,” which could mean a state website or written report, according to the organization.
+“When states are using different approaches, it always begs the question: ‘Why does one state choose one over another?
+Why a more conservative approach over a more sensitive one?’ ’’ asked Lorna Thorpe, director of the division of epidemiology at NYU Grossman School of Medicine.
+“That’s the reason we have standards and guidance that are technically sound.”
+Information varies
+The erratic reporting of coronavirus cases and deaths means that what residents can learn about the extent of the pandemic in their community varies widely.
+Ohio was one the first states to begin disclosing probable cases and deaths in early April.
+“Tt usually is a given when CSTE makes a recommendation like that,” said Brian Fowler, chief data officer for the Ohio Department of Health.
+“When they made that recommendation, we looked at it and said, okay, well this is what we need to use.”
+As of June 5, Ohio’s website showed 2,117 confirmed deaths and 222 probables.
+By breaking out the numbers separately, Fowler said, “you can’t be accused of hiding information and you can’t be accused of inflating numbers — it’s all out there.”
+The transition to counting probables was not “a huge lift,” Fowler said.
+Epidemiologists at the health department were already reviewing all suspected coronavirus cases.
+Some health officials were candid about how adding probable deaths would boost the overall tally.
+“T want to make sure that everyone understands that these are not new deaths,” Indiana Health Commissioner Kristina Box said at an April 20 news conference.
+“Rather, we are capturing the deaths that have occurred really since this pandemic began.”
+Box suggested other states would do the same: “Indiana — like every other state — will include these deaths in our reporting in order to better capture the toll that covid-19 has truly taken.”
+One week earlier, Michigan officials had said they intended to begin disclosing probable cases and deaths.
+When the state finally began doing that on June 5, more than 5,000 cases and 200 deaths were added to coronavirus totals.
+California’s state health department is reviewing the process to track probable deaths and “working to provide as much data as possible about COVID 19 while ensuring that the data are valid and useful for understanding the pandemic,” according to a May 20 email to The Post.
+Hilda Solis, a supervisor in Los Angeles County who represents a heavily Hispanic and impoverished district, said she was surprised that the state is not following national recommendations on counting coronavirus deaths.
+She has called for more post-mortem testing by the medical examiner.
+“A lot of people are dying at home.
+Poor people are dying at home.
+Homeless people are dying,” said Solis, a former U.S. labor secretary under President Barack Obama.
+“I do believe covid-19 is being underreported and that we need to take more responsibility.”
+The scale of undercounting that results from reporting only confirmed cases became clear when New York City on April 14 added more than 3,700 probable deaths to its numbers, sending the city’s tally over 10,000.
+The city that sits at the epicenter of the pandemic in the United States still is not counting probable cases, however.
+New York Gov.
+Andrew M. Cuomo, a Democrat praised for his command of daily news briefings during the pandemic, has indicated skepticism about recording probable cases.
+“Probable is different than confirmed,” he said at a news conference in late May.
+“Probable is ‘probable, but I have to check, I don’t know, I have to do further testing.’ We’ve had many cases that were probable coronavirus and turned out not to be coronavirus and that’s why they call them probable.”
+A spokesperson for North Carolina’s health department said the state is not reporting probables because of wariness about the reliability of antibody tests, and because of concerns that the CSTE’S definition of a probable case is overly broad.
+Officials in Florida did not respond to repeated requests for comment about why the state isn’t following federal guidelines.
+People behind ‘probables’
+Behind each probable death is a person.
+Barnes O'neal, 83, checked into the Brightmoor Nursing Center in Georgia in March to recover from a 10-day hospitalization.
+Less than a month into his stay at the facility about 40 miles south of Atlanta, a coronavirus outbreak forced a lockdown.
+O’neal developed a fever and pneumonia.
+His daughter, Natalie Turner, pleaded with her father’s caretakers and the state health department for a coronavirus test.
+She said she wanted his illness on the record.
+On April 20, just hours after Turner had spoken with him by phone, O’neal died.
+He was never tested, but Turner said his doctor told her there was “zero doubt” it was covid-19 and wrote it on her father’s death certificate.
+Still, her father, a frequent volunteer at the local soup kitchen, would not be included in t... death toll on the state website because he was never tested.
+“It’s just important to me because my dad’s life counted,” Turner said.
+“I feel like there’s a face behind every statistic, and that’s forgotten many times.”

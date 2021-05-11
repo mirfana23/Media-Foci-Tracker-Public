@@ -1,0 +1,31 @@
+Google says China and Iran are trying to hack both U.S. campaigns.
+Chinese and Iranian government hackers have targeted the Gmail accounts of staffers working on the presidential campaigns of Joe Biden and President Trump, respectively, Google announced Thursday.
+There were no signs the accounts were compromised, a Google threat analyst said ina tweet Thursday, and law enforcement was notified.
+The disclosure is a fresh reminder that nation states are actively seeking to gain access to presidential campaigns — a practice that has taken place in every presidential election dating back more than a decade.
+They may do so in search of insights into the thinking of the next American leader, or as the Russians did in 2016, to obtain material that might be disclosed publicly or used to interfere in the election.
+“We are aware of reports from Google that a foreign actor has made unsuccessful attempts to access the personal email accounts of campaign staff,” the Biden campaign said ina statement.
+“We have known from the beginning of our campaign that we would be subject to such attacks and we are prepared for them.”
+Biden, the presumptive Democratic presidential candidate, was not himself targeted, according to a person familiar with the matter, who spoke on the condition of anonymity because of the issue’s sensitivity.
+“The Trump campaign has been briefed that foreign actors unsuccessfully attempted to breach the technology of our staff,” a campaign official said.
+“We are vigilant about cybersecurity and do not discuss any of our precautions.”
+The hackers used a common technique called “phishing,” in which emails containing hidden malware and that appear to be coming from a trusted source are sent to unsuspecting targets.
+Opening a link in the email can trigger the malware, enabling the hacker to gain access to the target’s credentials.
+Google’s disclosure comes as the U.S. government has begun to brief the presidential campaigns and national parties on election threats from foreign adversaries.
+The Office of the Director of National Intelligence is spearheading the effort, and National Counterintelligence and Security Center Director William Evanina is leading the briefings.
+The briefings are coordinated with the FBI, Department of Homeland Security and the intelligence community’s election threats executive, Shelby Pierson, as part of the government’s effort to secure the 2020 election, ODNI officials said.
+The briefings include pointers on how better to secure systems and email.
+“Officials from the RNC have recently participated in briefings where we have been informed that foreign actors have made unsuccessful attempts to penetrate the technology of our staff members,” Republican National Committee spokesman Mike Reed said.
+Russia is actively seeking to interfere in this year’s election, U.S. officials have said.
+Earlier this year, officials told Sen. Bernie Sanders that Moscow was attempting to help his presidential campaign as part of an effort to interfere with the Democratic contest, The Post reported.
+Sanders dropped out of the race in April.
+Russia also has been attempting to wage a covert social media campaign to stoke divisions in the United States, as it did in 2016, FBI Director Christopher A. Wray has said.
+The Pentagon’s Cyber Command disrupted Russian trolls’ ability to operate on social media during the midterm elections.
+Some analysts say the greater threat is the prospect of hacking, dumping and altering information that can embarrass or disparage a candidate or damage a campaign.
+The hacking and leaking of Democratic emails in 2016 led to the resignations of party officials and disrupted the party convention.
+“Since 2016 the fear is that the adversary could leak data and add forgeries to the leak,” said Thomas Rid, author of “Active Measures,” a book on disinformation, and a professor at Johns Hopkins University.
+“So the concern is not just losing information.
+The concern is the adversary could weaponize the information.”
+Google threat analyst Shane Huntley said on Twitter that the hacker groups involved are APT31, which is linked to the Chinese government, and APT35, which is linked to the Iranian government.
+Traditionally these groups have been most interested in gleaning intelligence from campaigns, said John Hultquist, director of intelligence for the cyber firm Fireeye.
+“The reason is the campaigns are incubators for policy,” he said.
+“The people who employ these hackers want a sneak peek at those future policies.”

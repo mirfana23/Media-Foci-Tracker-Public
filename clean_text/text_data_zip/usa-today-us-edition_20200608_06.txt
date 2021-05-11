@@ -1,0 +1,167 @@
+2020. 6. 17. New tech can ID masked people by eyes, brows
+
+New tech can ID masked people by eyes, brows
+
+Will law enforcement use this kind of technology to find demonstrators or
+looters?
+
+USA TODAY US Edition - 8 Jun 2020 - 1A: Josh Peter AARON LAVINSKY/AP
+
+Arsonists, looters and rioters who think they evaded U.S. law enforcement this past week
+because they wore face masks might be in for a surprise.
+
+en © |\_ .  -—_I
+
+  
+  
+
+ 
+
+ad
+
+Not long after the Centers for Disease Control and Prevention recommended wearing cloth
+face coverings to slow the spread of COVID-19, a company introduced face recognition
+technology designed to identify people who are wearing masks, be it to ward off coron-
+avirus or conceal their identities while committing crimes.
+
+Brendan Klare, cofounder and CEO of Rank One Computing in Denver, said his company’s
+new technology “can be deployed with our law enforcement partners” that include 25
+agencies in the United States.
+
+“What we have released in direct response to COVID is what we call periocular recognition
+algorithm,” Klare told USA TODAY. “It’s very similar to a face recognition algorithm. It’s
+just the eyes and eyebrows only. So obviously it works with masks.”
+
+Well, not so obviously.
+
+A Florida sheriff well known for his use of face recognition technology expressed doubts
+about the claims.
+
+AU.S. government study of the new technology has been delayed.
+
+And in the wake of a white police officer killing George Floyd on May 25 in Minneapolis,
+the discussion about law enforcement’s use of face recognition technology has been re-
+newed.
+
+“Nobody has answered the question of how they can assure that this technology doesn’t
+contribute to existing police abuses,” said Neema Guliani, senior legislative counsel for the
+American Civil Liberties Union (ACLU). “Until you answer that question, I think the notion
+that this is technology that can be used by law enforcement is pretty concerning.”
+
+https:/Avww.pressreader.com/usa/usa-today-us-edition/20200608/page/1/textview 1/3
+2020. 6. 17. New tech can ID masked people by eyes, brows
+
+Which U.S. law enforcement agencies have used face recognition technology during the
+George Floyd protests and accompanying unrest?
+
+“T would say most of the major cities are likely using technology for investigative pur-
+poses,” said Shaun Moore, CEO of TrueFace.ai, which provides facial recognition technol-
+ogy.
+
+The Minneapolis Police Department, under siege by arsonists and protesters the day after
+Floyd’s death, does not use face recognition technology, said John Elder, director of public
+relations for the police department.
+
+“We do not possess any of that technology,” Elder told USA TODAY on Tuesday via email.
+All 50 states have access to the face recognition technology and many states are imple-
+menting it, said Benji Hutchinson, vice president of federal business for NEC Corporation
+of America. Hutchinson said NEC, based in Japan, and the two other leading biometrics
+technology companies collectively have contracts with each of the states.
+
+Law enforcement agencies also can access the face recognition system operated by the FBI
+or subscribe to services offered by numerous vendors, said Sheriff Bob Gualtieri of Pinellas
+County in Florida.
+
+Gualtieri, a leading proponent of the face recognition technology in the law enforcement
+community, said it’s impossible to say how many law enforcement agencies are using the
+technology.
+
+“It’s just the eyes and eyebrows only. So obviously it works with masks.” Brendan Klare
+Founder and CEO of Rank One Computing
+
+But he said he thinks the number is “very few,” in part, because of associated costs.
+
+Why is the ACLU so concerned about this, and what’s the argument in favor of law en-
+forcement using the technology?
+
+“Think about the reality of what that means for people attending protests,” said Guliani of
+the ACLU. “That means that they have to fear that they will be identified by law enforce-
+ment in situations where we’ve already seen police violence targeted at peaceful protest-
+ers.
+
+“Tt means that they have to worry about being identified by law enforcement when many
+people rightfully have extreme distrust about how that will affect their lives and whether
+that will lead to further abuse.”
+
+Hutchinson, the NEC executive who has been working in the industry for 15 years, said pri-
+vacy concerns are legitimate.
+
+“Surveillance is the hot button topic with live video cameras and streaming algorithms
+that are detecting and matching faces in real time,” he said. “And that use is not widely
+deployed, if at all, in the United States. And that’s important to know.”
+
+What’s with the Big Brother talk?
+
+There are no federal laws or regulations governing law enforcement’s use of face recogni-
+tion technology, and that seems to have fueled speculation about how the face recognition
+technology system works.
+
+“They think there’s cameras on every corner and it’s all connected and there’s a giant
+computer and that’s just not the case,” Hutchinson said.
+
+https:/Avww.pressreader.com/usa/usa-today-us-edition/20200608/page/1/textview 2/3
+2020. 6. 17. New tech can ID masked people by eyes, brows
+
+Or as Klare of Rank One Computing said of the conjecture he hears, “Like, you walk by a
+camera and law enforcement comes and nabs you like a robot. That is not how it’s done.”
+So how is it done?
+
+“A lot of times the best images we get are residences or businesses that have camera sys-
+tems and somebody’s committed a crime and they provide with you a video system,” said
+Gualtieri, the sheriff from Pinellas County in Florida. “Then will put those into facial
+recognition and see if you get a match.”
+
+The evidence is not admissible in a court of law but it can help identify people as part of an
+investigation, Gualtieri said.
+
+But privacy concerns persist due to the likes of Clearview AI, a company that has touted its
+facial recognition software and a database of three billion images scraped from the inter-
+net.
+
+In January, the New York Times reported that Clearview claimed more than 600 law en-
+forcement agencies had begun using the company’s services in the past year.
+
+Law enforcement agencies are expected to be limited to searching government photos
+such as driver’s licenses photos and mugshots of convicted criminals as opposed to photos
+posted on Facebook, Twitter and Instagram and other social media sites from which
+Clearview says it collects photos.
+
+Last month, the ACLU sued Clearview AI and said the lawsuit was designed “to bring an
+end to the company’s unlawful, privacy-destroying surveillance activities.”
+
+In a news release, the ACLU added, “Clearview claims that, through this enormous data-
+base, it can instantaneously identify the subject of a photograph with unprecedented accu-
+racy, enabling covert and remote surveillance of Americans on a massive scale.”
+
+Are criminals going to get away with crimes, in part, because the face masks they’re wear-
+ing will thwart face recognition software?
+
+Among the top authorities is Anil Jain, a professor at Michigan State and well respected in
+the field of face recognition technology.
+
+“Tt all depends on what portion of the face is being covered,” he said. “Sometimes it might
+have a shadow appear on your eyes. Eyes are very important. Eyes are the most important
+views in face recognition. In fact, even from a social perspective, reading a person’s eyes,
+it’s same thing for algorithm.
+
+“So using eyes alone, you can do 75% of the job. Provided the person is not wearing sun-
+glasses or anything.”
+
+But criminals have been wearing masks long before the coronavirus crisis hit, and
+Gualtieri said he knows what to do when face recognition technology isn’t effective for
+catching criminals.
+
+“You just got to go back to the oldschool way,” he said
+
+https:/Avww.pressreader.com/usa/usa-today-us-edition/20200608/page/1/textview 3/3
+

@@ -1,0 +1,101 @@
+Early hot spots make progress, but infections rise elsewhere
+The Washington Post : 6 Jun 2020 - A1 - BY JOEL ACHENBACH AND CHELSEA JANES
+The coronavirus appears to be in retreat in regions that moved decisively to contain it after being hit hard, including New York and New Jersey.
+But the virus is persisting — and, in some places, spreading aggressively — in parts of the South, Midwest and West, including in states that were among the last to impose shutdowns and the first to lift them.
+Data compiled by The Washington Post shows that 23 states, as well as the District of Columbia and Puerto Rico, have seen an increase in the rolling seven-day average of coronavirus cases compared with the previous week.
+Most have registered an increase of 10 percent or more.
+Now, public health officials across the nation are warily eyeing caseloads and hospitalizations to see if there is a spike in
+infections resulting from mass protests against racism and police violence.
+The protests, sparked by the Memorial Day killing of George Floyd in police custody in Minneapolis and other recent instances of violence against African Americans, have been outdoors.
+The virus is most easily transmitted in closed spaces with poor ventilation.
+Even so, the massing of protesters for hours on end in chaotic circumstances, along with police use of chemical agents, could lead to a spike in cases in coming days and weeks.
+“One person can infect hundreds.
+If you were at a protest, go get a test, please,” New York Gov.
+Andrew M. Cuomo (D) said in a briefing Thursday.
+“The protesters have a civic duty here also.”
+The notion of civic duty has, in part, contributed to a rapid shift in the public response to the coronavirus epidemic.
+Public health experts and local authorities in many places once
+urged so much caution that shutdowns ensued, streets emptied and grieving families were forced to limit or cancel funerals.
+Now, local officials throughout the country are lifting restrictions, hoping to restore economic activity, and some are signaling support for the protests.
+In Michigan, Gov.
+Gretchen Whitmer (D) joined a civil rights march Thursday while wearing a facial covering.
+More than 1,200 medical professionals have signed an open letter, drafted by doctors and researchers at the University of Washington and posted online, stating that the importance of protests outweighs the risks of massive gatherings.
+“Protests against systemic racism, which fosters the disproportionate burden of COVID-19 on Black communities and also perpetuates police violence, must be supported,” the letter states, adding that demonstrators should still follow “public health best practices” such as social distancing and wearing masks.
+The Centers for Disease Control and Prevention released a statement saying it was “monitoring closely” the demonstrations.
+“Protests and large gatherings make it difficult to maintain our recommended social distancing guidelines and may put others at risk,” the CDC said.
+“It is too early to know what, if any, effect these events will have on the federal COVID-19 response.
+Every local situation is different.”
+The coronavirus map is, indeed, complicated at this point — as complicated as the virus itself, which can lead to the potentially lethal disease covid-19 or leave an infected person with no symptoms at all.
+The early epicenter, New York City, has made huge strides in driving down caseloads and death rates, and hospitals are no longer overwhelmed.
+But a briefing document prepared by the Federal Emergency Management Agency and distributed Thursday to senior federal officials captured the scale of the challenges remaining.
+FEMA tracks how many days in a row a state records a decline in new daily coronavirus cases.
+Thirteen states — Arizona, California, Idaho, Kentucky, Mississippi, Nebraska, Oregon, South Carolina, Tennessee, Texas, Virginia, Washington and Wisconsin — had not shown a sustained daily decrease as of Tuesday, according to the document, a copy of which was obtained by The Post.
+A separate Post analysis of county-level data reveals the patchwork nature of the epidemii... with some communities showing dramatic spikes — a tripling or more of cases within the last two weeks — even as surrounding areas remain stable.
+These localized outbreaks have often been in counties that contain meat processing plants, prisons or assisted-living facilities.
+New data shows that almost a third of the deaths nationally have been in nursing homes.
+Mississippi Gov.
+Tate Reeves (R) announced this week that the number of patients on ventilators in Mississippi hospitals hit a new high last weekend, and he warned that “the threat of covid-19 is as great as ever, if not greater.”
+Florida on Thursday reported its highest number of new daily cases — 1,419 — since the state began providing such statistics in March, according to the Miami Herald.
+More than half the state’s cases so far have been in the South Florida counties of Broward, Miamidade, Monroe and Palm Beach.
+“T still think we have a lot of cases to come,” said Julie Swann, a former CDC adviser and professor of industrial and systems engineering at North Carolina State University, who said the continued spread was not inevitable and could have been stopped with sufficient testing and tracing.
+Viral transmission can be subtle.
+The virus typically takes about five or six days to incubate to the point that it causes symptoms, such as fever, headaches, body aches or a dry cough.
+Even when symptoms appear, many days can pass before a person seeks a coronavirus test.
+There is another lag of days before results reach public health departments.
+As a result, experts view current data as reflecting what transmission was like a couple of weeks in the past.
+Asymptomatic transmission complicates the process of drawing conclusions, too.
+Many of the people who traveled to beaches and other locations on Memorial Day weekend, and who participated in protests against police violence, are young and less likely than older people to develop a serious illness from the virus.
+They may never show symptoms.
+They can, however, transmit it.
+“If we are going to see a resurgence at onset of summer, it will be in this time window,” said David Rubin, director of Policylab at Children’s Hospital of Philadelphia, which has a model covering about 400 counties that forecasts where transmission may spike.
+“If we don’t see a bump, it may suggest that outdoor transmission is a relatively minor component of the epidemic during summer.”
+The role of weather in transmission of this virus is not well established.
+In general, viruses do not like heat and humidity.
+A new report published in the journal Science says weather isn’t as important as susceptibility: Most people have yet to be exposed to this virus and have no immunity.
+“Lack of population immunity is the much more fundamental driver than climate,” said the study’s lead author, epidemiologist Rachel Baker of the Princeton Environmental Institute.
+California is dealing with a massive outbreak in Imperial County on its southeastern border with Mexico.
+Last week, more than 60 patients were sent to neighboring Riverside County to alleviate the surge on local hospitals.
+The county, with a population of about 181,000, had 2,540 active cases as of Thursday evening.
+Yuma County, Ariz., which borders California and Mexico, is also seeing hospitalization spikes, according to Cara M. Christ, the state’s health director.
+Christ and Gov.
+Doug Ducey (R) told reporters much of the state’s rising caseload can be traced to increased testing.
+But state data also shows an uptick in hospitalizations and positive test rates, suggesting testing is not entirely responsible for increased case numbers.
+“The virus is widespread,” Ducey said.
+“This virus is not going away.”
+The virus spread easily until mid-march, when the first shutdown orders and the widespread adoption of social distancing began to flatten the epidemiological curve.
+Data compiled by The Post shows at least 107,000 deaths from the coronavirus as of Friday.
+The CDC projected Thursday that by June 27, 118,000 to 143,000 people in the United States will have died of covid-19.
+The worst weeks for coronavirus deaths were in early April.
+As the daily death toll has dropped, so have precautions by many Americans.
+In many places, people are not routinely wearing facial coverings.
+Many different agencies and research groups are tracking the virus, and their reports generally echo one another even though they slice the data in distinct formats.
+None of the data clearly signals a summer resurgence of the virus at the national scale, at least in terms of cumulative statistics.
+The heterogenous nature of the epidemic in the United States reveals itself in South Carolina.
+Charleston has not been hard-hit, according to Christine M. Carr, a professor of emergency medicine and public health sciences at the Medical University of South Carolina.
+But the state’s daily reports show that the area known as Pee Dee, in the northeast corner of the state, and communities along the heavily traveled I-95 corridor have been slammed.
+Carr hypothesizes that travelers on the interstate could be bringing the virus to these areas.
+These sections of the state are already vulnerable: They have limited health services, high rates of poverty and a population that is heavily African American, a demographic that has suffered disproportionately from covid-19.
+Michael D. Sweat, director of the Center for Global Health at the Medical University of South Carolina, has been maintaining models tracking the virus’s spread and calls the localized hot spots a series of “microepidemics.” His research shows that, as the state has lifted restrictions, people have begun to move around nearly as much as they did before the coronavirus arrived.
+He said anecdotal evidence suggests that people are no longer taking the risk of infection seriously.
+He attributes that to misconceptions about the nature of epidemics, not knowing someone who has been sickened by the virus, and the mixed messaging from federal and state governments.
+“(All those things are adding up to a bit of a muddled situation,” Sweat said.
+“It would be much better if we had consistent guidelines, consistent recommendations and if everyone were on the same page about the dire nature of this epidemic.”
+Case counts do not tell the entire story of what’s happening with transmission.
+If testing increases dramatically, case numbers can go up even if transmission is easing.
+But positive test rates in South Carolina have been going up even as testing has expanded.
+And on Wednesday, the state recorded 17 additional deaths, several times the usual daily average — both signs that transmission is increasing.
+Mississippi has also seen a rise in new cases that can’t be explained simply by more testing.
+The state has been largely open for business for many weeks, and youth sports leagues are soon resuming.
+“There are certainly more people with covid now than there were in March,” said Richard Roberson, vice president for policy and state advocacy at the Mississippi Hospital Association.
+“The numbers don’t appear to be going down.
+The combination of more people with it and more people moving around with it is a huge concern for us.”
+Many of the states experiencing increases in caseloads are home to rural counties with limited or no hospital access.
+Those that do have hospitals often find them ill-equipped to
+handle large surges of covid-19 cases.
+In Alabama, rural counties near Montgomery are sending patients to city hospitals for treatment, though Montgomery is dealing with rising cases of its own.
+According to Donald E. Williamson, president of the Alabama Hospital Association, multiple hospitals in the Montgomery area are nearing capacity in their intensive care units.
+Some Mississippi hospitals have already been overwhelmed by an influx of patients from outbreaks at nursing homes.
+Roberson said many hospitals in Mississippi — which has not expanded Medicaid benefits — were operating at a loss before the pandemic and now must figure out how to stay in business.
+If they fail, the “health-care deserts” will be vaster in scale, he said.
+“We worry about it every day,” Roberson said.
+“We worry about our hospitals having the resources to treat our patients under normal circumstances.”

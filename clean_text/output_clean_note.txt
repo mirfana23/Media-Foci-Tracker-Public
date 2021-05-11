@@ -1,0 +1,17 @@
+Clean Output: 
+First and 2nd Line are Headline and Sources
+Followed by the sentences. They have been segmented
+through nltk functions.  
+
+Clean Criteria: 
+"""
+    # RULE for sents[row]
+    # a proper sentence doesn't contain http/email. It contains less than 3*4-word letter.
+    # after a blank, sentence must contain more than two words that have 3 letters.
+    # while there is a continuation next line, go on as long as row < len(sents)
+        # if sentence(row) ends with '-', and there is a sentence on next row
+        # if there is a sentnce ends with -, but the next row is blank, wait until there is a proper sentence
+            # sometimes 'http' in the middle, so wait till the continuation
+        # combine the sentence set as paragraph
+    #  finally use sentence_separator
+"""

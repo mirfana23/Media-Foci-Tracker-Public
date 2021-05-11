@@ -1,0 +1,76 @@
+A Frisco company hired by the state
+Firm hires hundreds, but Texas plan details vague; Kentucky work at issue
+The Dallas Morning News - 30 May 2020 - 1A - By ROBERT T. GARRETT and ALLIE MORRIS
+to coordinate contact tracing keeps details of program vague.
+AUSTIN — A littleknown North Texas company that recently won the state’s nod to coordinate contact tracing for coronavirus patients has hired 605 people for the job, but is offering few details of how it will help Texas achieve its ambitious goals.
+In his first interview since his Friscobased MTX Group Inc. won the $295 million, 27month state contract, company founder and chief executive Das Nobel said it is off to a good start and he has confidence it’ Il be a success.
+“Within the first three days of this project, we have had success because this is the type of solution that we bring,” Nobel said.
+“We are extremely great at what we do.”
+But neither he nor the state agency that hired MTX Group on Friday would reveal the subcontractors involved in the project.
+Nobel also wouldn’t say how much the tracers are being paid,
+calling it proprietary information.
+Questions are being raised about previous work the firm did in Kentucky.
+And lawmakers, including Lt. Gov.
+Dan Patrick, continue to say they’re dismayed by the agency’s hastily awarded contract.
+“We should have been in the loop and we should have known.
+We should have been able to ask questions,” Patrick told supporters during a town hall via phone Thursday.
+A spokesman for the Department of State Health Services, however, said the agency is happy with the company’s performance so far, which also involved launching a virtual call center.
+Contact tracing is a major piece of Gov.
+Greg Abbott’s strategy to contain COVID19 as businesses begin to reopen.
+The goal is to track down Texans who may have been exposed to the virus and urge them to selfquarantine to help stop the spread.
+But the state doesn’t know if it’s meeting its own target.
+On Friday, Department of State Health Services spokesman Chris Van Deusen could not say whether every positive case in Texas is being traced by state, local, university, nonprofit or MTX employees.
+Department Commissioner John Hellerstedt said on May 18 the state was not able to keep up.
+Some 290 of the tracers hired by MTX are already working and the rest will complete training Friday, Van Deusen said.
+The company’s contact tracing workforce is based entirely in Texas and MTX is heavily recruiting university students, Nobel said.
+But the only hiring partner he named is Npower, a national nonprofit that provides tuitionfree technology training for military veterans and their spouses.
+It has a state branch in Frisco, where Nobel and his wife, Nipa, moved 15 months ago, from New York state.
+Nipa is on the group’s Texas advisory board.
+Russ Medina, executive director of Npower Texas, though, said in an email that his agency has not yet hired any contact tracers for the Texas effort.
+“We met MTX in May 2019,” Medina said of the Nobels.
+“They liked the Npower Texas mission and volunteered to help us.
+MTX has generously contributed to Npower.”
+Medina did not offer specifics, other than to say “MTX has participated generously” in two recent fundraisers and via North Texas Cares, a COVID19 effort led by United Way and area foundations.
+“MTX recognizes this skillset and indicated they will use this talent pipeline of veterans and military spouses,” Medina said of Npower.
+“This process is early.”
+On Tuesday, MTX Group’s Frisco offices were the site of a protest organized by Texans Against Contact Tracing.
+Event organizer Grant Bynum said the group worries the Abbott administration’s partially privatized approach has “potential for unfettered and unregulated sharing of information with multiple state agencies and local counties.”
+A Salesforce ‘marriage’
+MTX Group’s early accomplishments include ramping up a Salesforcebased system for outbound telephone calls, Van Deusen said.
+It has been able to “marry up” the calling software with the Texas Health Trace system, he noted.
+That system was built for the state in the past two months by Britishbased Deloitte, also using a Salesforce information technology platform, Van Deusen said.
+It provides a way for contact tracers to document their findings.
+MTX Group also developed a “learning management system” for newly hired tracers that includes training on IT systems and a federal health information privacy law.
+Through Texas Health Trace, the state will collect data from all 4,000 tracers being deployed in Texas by public and private entities, Van Deusen said.
+MTX Group will provide scheduling, he said, for the 1,450 tracers now on board in “the centralized state effort” — those hired by MTX, two state agencies and Texas A&M University.
+Asked if the state is pleased with MTX Group’s initial work, Van Deusen replied, “We are satisfied.
+They’ve been working really quickly.
+They got the calling solutions stood up ina matter of days, over a weekend.
+They have been to this point very good partners.
+Really no concerns about the work they’ve done.”
+Earlier this month, MTX Group won the contract over 10 other bidders, including major corporations such as IBM, Accenture and AT&T, prompting an outcry by some lawmakers that MTX lacked experience to handle so big a job.
+Kentucky problem
+Nobel declined to discuss in detail cost overruns that have plagued a project that MTX Group was hired by the state of Kentucky to perform last summer.
+In late January, MTX Group proposed that the Kentucky Department of Alcoholic Beverage Control pay it $2.9 million, a 123% increase over its original bid, according to records obtained by The News.
+The project involved using Salesforce software for many aspects of the agency’s licensing and regulatory process.
+Asked about the Kentucky project, Nobel replied, “Any consulting organization will tell you that you don’t necessarily always get the estimate exactly where it needs to be.”
+But he insisted his company has a great track record.
+“MTX to date has zero failed projects,” Nobel said.
+“In the past several years, we have delivered over 400plus projects for the state [or] local agencies.”
+MTX Group is rapidly growing, and still learning, he said.
+“(As we continue to work through our projects, we always go through postmortem process as needed, right?” he said.
+“And continue to learn how do we get better at estimating.
+But do know that we always focus on doing the right thing.”
+Nobel said the company has more than 270 employees and a “significant portion” are based in the U.S. “We maintain a good balance in the way we build our team here and globally.”
+Several toplevel MTX executives have left the company within the past year, including two chief revenue officers and two chief operating officers, according to their Linkedin profiles.
+Nobel said the company has 1% attrition in the organization and declined to discuss the departure of several toplevel employees.
+“It is not uncommon for people to come in and move around the organization.”
+Degree questions
+Late Friday, a Houstonbased podcast by former Texas statehouse candidate Jess Fields raised questions about Nobel’s Linkedin profile, which listed a “Doctorate of Management, Organizational Development and Leadership from
+Colorado Technical University in Colorado Springs.”
+MTX’S chief financial officer said Nobel never claimed he had a doctorate.
+“We believe it is important to make it extremely clear, we, and Das, have never presented on any document, resume, bid response, RFP response or biography to any entity that he possesses or has ever possessed a doctorate or PHD,” MTX CFO Christina Fields wrote in an email.
+“This question is emanating from Das’ Linkedin profile in which he references attending Colorado Technical University’s Doctorate of Management in Organization Development and Leadership program from 20082012.
+“Das did attend this program and stopped short of completing his dissertation to be formally awarded his PHD, which is why he has never claimed to have one,” she wrote.
+“Linkedin often encouraged users to list their educational experiences, and in this instance, that is what Das has done.
+We are looking into how we can update this in a way to make it less confusing, but he has never claimed on any official communication to have his Doctorate or attempt to use, or claim to use, such credentials in any way.”

@@ -1,0 +1,56 @@
+Timing: CDC chief defends failure to spot early spread in the U.S.
+Official dismisses claim that wide testing would have made a difference
+The director of the Centers for Disease Control and Prevention on Friday defended the agency’s failure to find early spread of the coronavirus in the United States, noting that surveillance systems “kept eyes” on the disease.
+“We were never really blind when it came to surveillance” for covid-19, the disease caused by the virus, CDC chief Robert R. Redfield said.
+Even if widespread diagnostic testing had been in place, it would have been like “looking for a needle in a haystack,” he said.
+Redfield was among three CDC officials who spoke with reporters Friday about a comprehensive analysis by the agency that found the coronavirus began spreading in the United States as early as the second half of January, eluding detection by public health surveillance systems that help monitor for early signs of novel contagions.
+Reporters who received the report had requested to speak with experts.
+It was the first such CDC briefing in nearly three months.
+The report looked at public health surveillance data, confirmed cases of covid-19 and the transmission of distinct genetic strains of the virus.
+The results are consistent with other scientific studies that have described a twostage viral attack that began in January on the West Coast with the coronavirus introduced by travelers from China and continued in February as travelers from Europe brought the virus to the East Coast.
+Most of the virus spreading in the United States can be traced to the introductions from Europe.
+Redfield said the findings debunk speculation the virus was circulating months earlier.
+“There was one opinion that was circulating that in November, December and January, there was, if you will, significant seeding of the nation,” Redfield said.
+“And what this data clearly shows is by four independent lines of evidence, that the early introduction of this virus in the Northwest and Northern California was sometime between the second week of January and the second week of February.”
+Jay Butler, CDC’S deputy director for infectious diseases, said the findings also show that transmission was limited and not as widespread as some experts have suggested.
+Addressing the botched CDC rollout of test kits that experts say allowed the virus to take hold and spread quickly, Redfield said diagnostic testing would have made little difference at that time.
+When U.S. cases were first detected in January and February, health officials
+identified about 800 highrisk individuals who had been in contact with infected patients.
+Only two of those people tested positive, he said.
+Still, that doesn’t mean officials should simply wait for the needles “to replicate themselves until they are the haystack,” said William Hanage, an epidemiologist at the Harvard T.H.
+Chan School of Public Health.
+“There’s a succession of missed opportunities here,” he said.
+“Surveillance at the time was wholly inadequate to the task of catching a pandemic virus of this sort, whenever it was introduced.”
+Michael Worobey, a University of Arizona evolutionary biologist who is lead author of a new paper analyzing the early spread of the virus in the United States, said his research indicates community spread on the West Coast probably did not begin before the first week in February.
+That is just a few weeks after the first Washington state patient arrived ona flight from Wuhan, China, but, to Worobey, that was potentially enough time to take action to limit the outbreak.
+“Tt would be absurd to not recognize that there were some failings in the way testing was rolled out,” Worobey said.
+He said details of the introduction and spread of the virus are crucial to understanding exactly what happened and what could be done to prevent future outbreaks.
+“When a plane crashes, it’s very impressive the way these thing are investigated right down to every single fragment of debris so that we figure out what went wrong without trying to brush anything under the carpet,” he said.
+The genetic data that was part of the evidence in the report underscores the ease with which the virus entered the country and began spreading before the rollout of widespread testing or contact tracing, and also before the Trump administration banned most travel from China, starting Feb. 2, and Europe, on March 13.
+A paper published Friday in the journal Science found that New York City was seeded with the virus at least eight times in separate events, the first perhaps as early as late January.
+The earliest introductions came from people with known travel histories and were not linked to later community clusters, the report said.
+But outbreaks still happened, and the virus samples can be traced to Europe, “likely reflecting local transmissions from undetected introductions,” the paper states.
+Only one of the virus sequences, introduced in midFebruary, became highly successful in spreading in New York City, said the paper’s lead author, Ana Silvia Gonzalez-reiche, a virologist at the Icahn School of Medicine at Mount Sinai.
+There is no laboratory evidence this sequence was more contagious or dangerous than others, she said.
+“It looks like it was luck,” she said.
+Testing didn’t expand until mid-march.
+If more testing had been available in January and February, researchers would have had a better chance of discerning the scale and speed of the outbreak, experts said.
+“What this points to is how incredibly unfortunate it was that we didn’t have broad-based surveillance early,” said Jennifer Nuzzo, an epidemiologist and senior scholar at the Johns Hopkins Center for Health Security.
+“We lost several months’ time where we would have been able to isolate people and prevent the cases from accelerating as we did,” she said.
+In the absence of better testing, the researchers tried to reconstruct what happened.
+They examined four pieces of epidemiological data to understand whether the virus was circulating in the community before the identification of a patient Feb. 26 in California who was previously thought to be the first confirmed case of community spread.
+The researchers concluded there was likely community transmission of covid-19 in the United States as early as mid-january, with the first such case identified in a woman who became ill in late January and died Feb. 6 in California.
+The investigation showed lowlevel community transmission was happening as early as late January in California and Washington state, after importation of cases from China.
+But the level was too low for anyone to notice, and emergency departments saw no spike in patients with symptoms consistent with covid-19.
+That, too, is consistent with what is know about community transmission: It takes time, many weeks, to reach a critical mass that triggers alarms.
+A retrospective analysis of more than 11,000 stored respiratory samples collected starting Jan. 1 showed no positive tests for covid-19 until Feb. 21 in Washington state.
+The virus was already circulating but at a level below the epidemiological radar.
+The report concludes that “sustained, community transmission had begun” before the virus was detected in two cases in California and Washington state at the end of February.
+Those were the first U.S. patients with no travel history to China.
+Researchers said spread probably came from “importation of a single lineage of virus from China in late January or early February, followed by several importations from Europe.” The report suggests procedures in place for contact tracing were no match for a virus that could spread from asymptomatic patients.
+The CDC report raises intriguing speculation about how the first known case in the United States may have initiated a spread in a fashion so stealthy that it was impossible to discern at the time.
+The authors of the study note that investigators did rigorous contact tracing for the first patient.
+But they did not examine all of the patient’s contacts before symptoms appeared.
+At that point, the standard protocol in contact tracing did not extend to potential presymptomatic spread, the CDC said.
+And in another wrinkle, the contact tracing did not look at secondary contacts — people who had been in contact with the first circle of contacts.
+Thus, it is possible the patient transmitted the virus to someone who never developed symptoms, and who then transmitted it to someone who became one of the community spreaders.

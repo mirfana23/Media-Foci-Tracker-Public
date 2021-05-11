@@ -1,0 +1,56 @@
+Masks: Scientist studies their effect on social distancing.
+Italian scientist finds that mere sight of protective gear drives people to social distance farther
+Massimo Marchiori, an Italian computer scientist, once used sensors to determine how the widths of shopping mall walkways shaped buying decisions.
+Another time he used GPS
+So when the novel coronavirus consumed Italy in February, Marchiori decided it was time for a new experiment — this time, on social distancing.
+The result suggested that masks help fight contagion in ways other than just filtering air — benefits rarely discussed in the fraught political conversation about whether maskwearing in public spaces should be mandatory.
+To measure how people respond to masks, Marchiori created the world’s first “social distancing belt”: a $30 contraption that looked like a gray handbag but included a data card, rechargeable battery and sensors capable of measuring the proximity of oncoming objects, or, in this case, people.
+He fastened the social distancing belt to his waist as he walked through the streets of Venice and nearby areas during the height of the pandemic.
+With the help of some friends also equipped with social distancing belts, Marchiori measured more than 12,000 encounters with other people on sidewalks and in stores, all with the goal of determining how they reacted to people wearing masks.
+“Everyone talks about social distancing,” Marchiori said, “but no one had actually measured actual social distancing.”
+His findings suggest that wearing masks has a profound effect on how we perceive others, and in particular how close we are willing to get to strangers.
+Unmasked — even during the height of a raging pandemic — the sensors deployed by Marchiori found that fellow pedestrians actually drew closer to him as he passed them on a sidewalk, typically within a foot.
+But when he donned a mask, people drifted back — nearly twice as far as when he wasn’t wearing a mask — suggesting the mere sight of protective gear activated the underlying knowledge among fellow pedestrians that keeping their distance helped keep them safe.
+In other words, masks appeared to make an extremely social species less social — and less vulnerable.
+“Tt’s our humanity that is actually bringing us toward the virus,” said Marchiori, a professor at the University of Padua.
+“You have to take away a bit of humanity, to become a bit antisocial, to protect humanity.”
+The finding — which, like most of the geyser of new studies about the coronavirus and related subjects, has not yet been formally reviewed by scientific peers — was published last week on arxiv.org, a publicly available source of emerging research.
+It is one of the first studies to apply hard data to a key question of our time: What happens when societies unaccustomed to covering their faces are ordered to do so by public health authorities?
+Roughly three-quarters of humanity has been under some kind of government masking orders in recent months, according to Jeremy Howard, a University of San Francisco data scientist who has been publicly advocating for mask usage as a key element in bringing the pandemic to heel.
+Research he and others have done suggests that masks — even ones that are handmade — significantly lower the likelihood of transmission of the coronavirus among people moving about their communities.
+An analysis published Monday in the Lancet, based on a review on 172 previous studies from around the world, found that “face mask use could result in a large reduction in risk of infection.” The paper, funded by the World Health Organization, is the latest evidence that initial guidance from U.S. health authorities discouraging mask use was a misstep.
+Howard was among a group of scientists who publicly advocated for a reversal of that position, adopting the Twitter hashtag #Masks4all and a profile picture of himself in a dark mask and sunglasses.
+““(Mask-wearing seems to be the number one most effective tool in slowing the epidemic,” Howard said.
+A missing element, though, has been data on how individuals react when ordered to wear masks, especially in societies not accustomed to doing so during public health emergencies.
+A group of Yale researchers, in a study released last month, and also not yet peer reviewed, analyzed location data from millions of smartphones to measure how masking orders affect how often people left their homes, how long they stayed away and where they went on their trips.
+The researchers found that as government officials ordered communities to don masks when entering public spaces, people began leaving their homes more and staying away longer — an unintended consequence that, the researchers argued, could undermine efforts to contain the coronavirus.
+Author Eli Fenichel, a Yale University professor of natural resource economics who has studied the relationship between location data and the spread of disease, said there is danger if people believe masks are simply a safe alternative to staying home.
+“You’re implicitly telling people it’s okay to go out if you have a mask,” said Fenichel, adding that a better message would be: “If you absolutely must go out, wear a mask.”
+The potential for confusion has been thrown into sharp relief over the past two weeks as demonstrators have massed in dozens of U.S. cities to protest the police killing of George Floyd in Minneapolis.
+Masks provided some protection, but epidemiologists have warned that the concentration of people risked spreading new infections.
+Wearing masks — or not — also has taken on partisan dynamics as President Trump has refused to be photographed with one on even as he’s ordered his staff to wear masks at the White House.
+Marchiori’s findings suggest the benefits of wearing a mask, aside from filtering out pathogens, may lie in the social signals they convey.
+He found an even stronger repellent effect when he wore goggles, or if the mask he donned was obviously poorly constructed — signaling perhaps a combination of infectiousness and ineptitude.
+Epidemiologists say the biggest risk of transmitting the coronavirus comes from prolonged close contact between infected people and healthy ones, especially if that contact happens indoors.
+That means brief encounters on sidewalks — of the sort Marchiori initially tested — are not likely a major source of new infections.
+But his subsequent research shows a similar effect in cramped indoor spaces, such as food stores, where infection risks are higher and social distancing requires more vigilance.
+The research grew out of Marchiori’s long-standing determination to convert data he could personally collect into analytical insights to answer questions that interest him.
+One of his previous research topics was analyzing how soccer positioning, as dictated by common strategies, affected the outcomes of games.
+Marchiori and his co-authors, who studied countless hours of game video to plot movements, found that positioning made little difference to who won or lost.
+The most important factor was the how well players worked with each other, what he called the collective “speed of thought” within a team.
+The title?
+“Secrets of soccer: Neural network flows and game performance.”
+‘What really matters seems instead to be the right balancing of passings among the various areas, producing an overall more efficient brain-like structure,” Marchiori and his coauthors wrote.
+“These counterintuitive results might also explain the failure by common statistics like ball possession, shoots, corners and so on, to actually grasp the ultimate secret of soccer for how to actually win a game.”
+His facility, with low-cost sensors and tracking devices, also allowed Marchiori to measure and analyze other behaviors.
+By narrowing walkways in shopping malls, he found that proximity — similar to what’s found in traditional bazaars where shoppers crowd winding, narrow passages, close to merchants’ stalls — induces more purchases.
+He also found that when people walk faster in urban areas, the overall health metrics are likely to be better.
+And then, there was the cow study, titled “Happy Cows, Happy Milk: smart cows and quality factors,” presented at a scientific conference in August.
+Marchiori’s initial thesis was that more-active cows — the ones that walked farther in open fields — would be healthier and produce better milk.
+But the GPS data showed that cows that frequently came close to other cows — the ones that appeared most sociable — produced the best milk, as measured by lab tests of quality and human taste tests.
+The social natures of mammals, including human, has ended up being a recurring theme of Marchiori’s work.
+We are drawn to one another.
+We do things more efficiently — shop, pass soccer balls — when we work together.
+“It’s a social world,” Marchiori said.
+But in a pandemic where proximity is a key factor in transmission, Marchiori found, these same factors can be dangerous.
+Wearing masks makes them less so.

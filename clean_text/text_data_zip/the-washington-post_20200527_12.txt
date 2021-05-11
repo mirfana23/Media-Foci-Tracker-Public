@@ -1,0 +1,218 @@
+2020. 6. 17. Va. students: Laws get in the way of some getting Internet access.
+
+Va. students: Laws get in the way of some getting Internet ac-
+cess.
+
+Schools are some families’ best hope for Internet access, but laws are in the
+way
+
+The Washington Post - 27 May 2020 - A1 - BY HANNAH NATANSON
+
+Yenifer Alvarado Portillo liked doing homework. School, the 5-year-old said, made her feel
+a ha
+
+E
+But ever since Arlington Public Schools shuttered, kindergarten has become a cause for
+tears. While other kids find their assignments online, Yenifer’s teacher has to relay them
+by phone. Even then, she can’t complete most of them because her family’s Northern Vir-
+ginia home lacks Internet. She and her mother, Maria Silvia
+
+Portillo, huddle by the hotspot on Maria’s Galaxy cellphone. But the signal is just too weak.
+“My friends can do their work,” Yenifer said. “It makes me sad.”
+
+It’s a predicament facing millions of families around the country — roughly 162 million
+people, by one estimate — with no end in sight, as the novel coronavirus seems likely to
+disrupt school again next academic year. In Virginia, as in other states, school officials are
+racing to reach families like the Portillos, publicizing discounted offers from Internet
+providers, extending school Wifi into parking lots and distributing hotspot devices. And
+Internet access is becoming more vital every day, as parents must
+
+head online to fill basic needs such as job hunting and doctor’s appointments.
+
+But school solutions are limited and makeshift, officials acknowledge, unlikely to serve in
+the long term. And schools trying to do more face a major hurdle: long-standing laws that
+effectively bar county governments and public school systems from providing Internet di-
+rectly to families. Although these laws exist in dozens of states, they are especially harsh in
+Virginia.
+
+“Schools are taking on the onus to solve a society-wide problem with almost no re-
+sources,” said Sascha Meinrath, a professor in telecommunications at Pennsylvania State
+University. “It’s necessary, but it is entirely insufficient to address the need.”
+
+As the pandemic stretches into its third month, some lawmakers, school staffers and ad-
+vocates in the state are clamoring for change: They want to revise or repeal the laws and
+
+ 
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200527/page/1/textview 114
+2020. 6. 17. Va. students: Laws get in the way of some getting Internet access.
+
+replace them with regulations that treat Internet access as a public utility.
+
+‘“‘We need to make sure our citizens have access to something that, at this point, is as es-
+sential as electricity,” said Katie Cristol (D), an Arlington County Board member who sup-
+ports the idea of new legislation.
+
+Opponents, however, assert the existing laws protect business from needless government
+interference and guard against the waste of taxpayer dollars.
+
+Del. C.E. “Cliff” Hayes Jr. (DChesapeake), who chairs the Virginia House’s communica-
+tions, technology and innovation committee, said he is expecting a slew of proposed
+changes, and a pitched battle, during the next legislative session in January.
+
+He plans to spend the intervening months exploring every inch of Virginia law around
+broadband, hunting for ways it could be tweaked to expand access.
+
+“T can think of an era when the Internet was a luxury, a nicety, something neat to have,”
+Hayes said, “but now it has become a necessity.”
+
+“This,” he added, “may be the civil rights issue of our time.”
+
+‘People are being left behind’
+
+The pandemic is bringing to the boiling point a long-simmering dispute on whether Inter-
+net access should be offered and regulated by the government.
+
+Internet is currently provided to most Americans by one or two private companies at a
+time, Meinrath said. He traces the state of affairs to a seminal 2005 Supreme Court ruling
+that limited competition in Internet services.
+
+Buoyed by that success, Meinrath said, large companies led a lobbying campaign over the
+past decade that saw roughly 20 states pass laws edging municipalities out of the Internet
+provision arena.
+
+“The effect is very clear,” said Meinrath, who co-founded Measurement Lab, an interna-
+tional consortium of Internet researchers and scientists that tracks broadband speed
+worldwide. “Data show that states that pass these laws have worse service, at more expen-
+sive prices, in fewer locations.”
+
+Virginia — along with Wisconsin and Alabama — claims the most rigorous restrictions
+against municipal Internet provision, according to Broadband Now, a data aggregation
+company. By that site’s estimate, roughly 83 percent of Virginians had Internet connectiv-
+ity — defined by the Federal Communications Commission as sufficient streaming power
+to conduct one highdefinition Zoom call at a time, Meinrath said — as of March 2020.
+Broadband Now ranked Virginia 15th in the nation for Internet coverage.
+
+Although Virginia law technically permits local governments to offer broadband to resi-
+dents, it places a minefield of regulations in the way.
+
+It forbids municipalities from pricing their services lower than established companies. It
+bars them from subsidizing their rates. It forces them to clear bureaucratic and procedural
+hurdles companies don’t face. And if a county government wants to offer voice, video and
+data services, the law requires that officials prove they can turn a profit within the first
+year of operation, an extremely difficult feat even for a private provider.
+
+Last year, Gov. Ralph Northam (D) signed a new law giving municipalities the power to
+employ independent providers to build networks reaching communities in need of Inter-
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200527/page/1/textview 2/4
+2020. 6. 17. Va. students: Laws get in the way of some getting Internet access.
+
+net. But the law only affects areas where fewer than 10 percent of residents have access to
+broadband.
+
+Jonathon Hauenschild, who directs a task force focused on technology and communica-
+tions for American Legislative Exchange Council (ALEC), said laws like Virginia’s lead to
+better service by freeing companies from the fetters of big government, enabling the
+healthy competition that characterizes a thriving market. ALEC, which draws much of its
+funding from large corporations, has a long and successful track record of advancing con-
+servative bills in state legislatures.
+
+“We also need to ensure a level playing field,” he said, “so that a municipality can’t build a
+network and freeze out all competitors.”
+
+A 2020 study conducted by Broadband Now, however, found that states without legislative
+roadblocks to municipal broadband tend to have lower-priced Internet services on aver-
+age, and that those services are available to more people than in states with barriers.
+
+And amid the pandemic, Hauenschild’s line of thinking is less convincing to some law-
+makers, including in Arlington County. Roughly 10 percent of the county’s 230,000 resi-
+dents lack a home Internet connection, said Cristol, the county board member. The virus
+has converted this digital divide, long a source of inequity, into an emergency, she said.
+What is especially infuriating, Cristol said, is that Arlington could easily offer Internet to
+some of its most vulnerable residents. The county in 2015 spent $4.1 million to install a 10-
+mile fiber network that runs throughout the county, including near areas that are low-in-
+come and lack broadband.
+
+“It can provide high-speed Internet to anyone who connects to it,” Cristol said. “But —
+and this is the crux — Virginia law says we are not allowed to let individual consumers
+connect to that network.”
+
+Efforts to get that law changed, pursued over the last few years, fell on deaf ears, Cristol
+said. Proposals foundered as recently as Virginia’s last legislative session. But the pan-
+demic, Cristol believes, could finally force change — across the nation.
+
+“It has to,” she said. “As a society, we can’t avoid the truth that people are being left be-
+hind because they do not have home Internet.”
+
+Arlington’s temporary fixes
+
+As life shifts online, Arlington
+
+Public Schools is one of thousands of school systems suddenly forced to play Internet
+provider. Its frantic activity over the past few months, and the shortcomings of those ef-
+forts, mirror struggles taking place nationwide.
+
+The division began making preparations to offer families makeshift Internet access a few
+days before Northam ordered schools closed, said Rajesh Adusumilli, assistant superin-
+tendent for information services.
+
+The district, which serves 28,000 students, was better prepared than some: Students in
+third through eighth grade receive ipads, and high-schoolers get Macbook Air laptops.
+With devices largely taken care of, Arlington’s technology team focused on assessing In-
+ternet access.
+
+By analyzing activity on student devices in early March, Arlington officials identified
+roughly 1,000 households without connectivity, Adusumilli said. The division also started
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200527/page/1/textview 3/4
+2020. 6. 17. Va. students: Laws get in the way of some getting Internet access.
+
+researching ways it could work around Virginia Internet laws.
+
+The first of several options involved publicizing the services of Comcast, which is offering
+free Internet through June for families who qualify for federally subsidized meals, and at a
+reduced rate of $10 a month afterward. This is still too pricey for many parents who have
+lost jobs because of the virus, Adusumilli said, so the school system has partnered with the
+county to secure a $500,000 grant to help families through the summer.
+
+The school is also extending its Wifi to places such as school parking lots, permitting any
+member of the public to drive up and connect. But that method has drawbacks, too. For ex-
+ample, Adusumilli said, not all families own cars.
+
+The third temporary fix involves Mifis — small Internetgiving devices that Arlington
+staffers have delivered to 870 households since schools closed. But they have serious limi-
+tations, Adusumilli said. They can support just 90 minutes of high-quality video class per
+day.
+
+This has not been a major problem so far, Adusumilli said, because Arlington is not offer-
+ing video instruction during the shutdown. But that may change come fall. And families are
+already using the Mifis for much more than school, he said.
+
+Anonymized aggregate data shows “families looking at news sites, county sites, hiring
+sites,” Adusumilli said. “It’s clear why: Some of the families we provided Mifis for, this is
+their only connection.”
+
+The school district is doing all it can short of actually providing Internet, as forbidden by
+law, said Adusumilli, who is eager to see legislative change. While proud of his team’s
+work, he fears the future. There will be no equity in education or life, he said, until every
+household has high-speed Internet access.
+
+And he is haunted by the roughly 5 percent of families, like the Portillos, that the school
+has been unable to reach.
+
+Yenifer Portillo often wonders why she cannot submit essays, listen to audio recordings, or
+watch prerecorded school videos as some of her friends do. It’s the same reason the family
+cannot watch movies online, her mother explains. The same reason Mami cannot access
+job-hunting sites, although she and her husband are desperate to replace the restaurant
+work they lost to the pandemic.
+
+“We just don’t have enough Internet,” Maria Silvia Portillo tells her daughter.
+
+The 5-year-old nods. But when the kindergarten teacher phones again, with yet another
+bevy of activities she cannot complete, Yenifer can’t help herself.
+
+“Mami,” she asks, “but why can’t I do my homework?”
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200527/page/1/textview 4/4
+

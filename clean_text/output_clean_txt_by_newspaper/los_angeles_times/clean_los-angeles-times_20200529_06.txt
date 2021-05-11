@@ -1,0 +1,58 @@
+Trump targets social media’s legal shield
+In feud with Twitter, president signs order that could open the firms to lawsuits, but it could also backfire.
+Los Angeles Times - 29 May 2020 - A1 - By Chris Megerian
+WASHINGTON — President Trump signed an executive order Thursday targeting social media companies such as Twitter, accusing them of having “unchecked power” and escalating his feud with the popular digital platforms he relies on as a political bullhorn as he runs for reelection.
+Trump’s order aims to limit the companies’ legal immunity for how they moderate content posted by users, a goal that legal experts said exceeds the president’s authority unless he persuades Congress to change the law.
+But the move could increase political and financial pressure on Twitter, Facebook, Google and other Silicon Valley giants by opening the door to lawsuits and regulatory reviews.
+Trump, who has a history of ordering executive actions that have little direct impact, acknowledged that his latest order is all but certain to face court challenges.
+Legal experts said it is unlikely to pass judicial muster.
+The president acted two days after Twitter, for the first time, added a disclaimer to two of his tweets that falsely said mail-in ballots led to widespread voter fraud.
+The move infuriated Trump, who often tweets or retweets dozens of times a day.
+The order may fire up
+Trump’s supporters, who have repeatedly accused high-tech platforms of censoring conservative viewpoints, and become a new rallying cry in the 2020 presidential race.
+“We're fed up with it,” Trump said Thursday in the Oval Office.
+“And it’s unfair, and it’s been very unfair.”
+But Trump’s actions also could backfire.
+If the companies face new legal threats over usergenerated content, they may try to limit their liability by blocking incendiary and baseless messages — the same kind that the president routinely posts or shares.
+Before signing his executive order, Trump shared a video of a supporter saying “the only good Democrat is a dead Democrat.” The supporter said he meant the phrase in a political sense, not a physical one, but the statement quickly generated outrage online.
+While Trump mostly sticks to Twitter, where he has 80 million followers, his reelection campaign relies on an array of social media, especially Facebook, to aggressively target voters for the November election.
+Trump highlighted his latest feud as new labor figures showed 40 million Americans had filed for unemployment in the last 100 days and as the U.S. death toll from COVID-19 exceeded 100,000.
+Critics said he is seeking to divert voters’ attention from the ravages of the coronavirus crisis and was trying to intimidate Twitter and other Silicon Valley companies from curtailing his spread of falsehoods and disinformation in an election year.
+“This is really just a naked power grab and an attempt at retaliation based on platforms making decisions that the president of the United States doesn’t like,” said Aaron Mackey, staff attorney at the Electronic Frontier Foundation, a digital civil liberties nonprofit group.
+Trump’s executive order complains specifically about Twitter’s decision Tuesday to add fact-check disclaimers to his baseless claims about voter fraud, which research shows is extremely rare.
+“Twitter now selectively decides to place a warning label on certain tweets in a manner that clearly reflects political bias,” Trump’s order said.
+Jack Dorsey, Twitter’s chief executive, defended the company’s actions in a tweet Wednesday.
+“We'll continue to point out incorrect or disputed information about elections globally,” he said.
+Twitter responded to Trump’s executive order by describing it as “a reactionary and politicized approach to a landmark law,” arguing that “attempts to unilaterally erode it threaten the future of online speech and internet freedoms.”
+Facebook said in a statement that limiting the companies’ legal immunity “would restrict more speech online, not less.”
+Social media companies have faced increasing scrutiny from politicians across the ideological spectrum, but there’s little agreement besides a shared sentiment that the platforms have grown too powerful and unaccountable.
+Conservatives complain that their voices are not heard, and liberals demand greater efforts to flag deliberate falsehoods and disinformation.
+Trump said his executive order would “defend free speech from one of the greatest dangers it has faced in American history.”
+“There’s no precedent in American history for so small a number of corporations to control so large a sphere of human interaction,” he said.
+Legal experts said Trump was misinterpreting constitutional protections.
+Under the 1st Amendment, the government cannot ban or censor speech.
+But Twitter is not the government, and Section 230 of a 1996 federal law called the Communications Decency Act specifically protects internet companies from lawsuits or other liability for moderating content posted by users, or for the content itself.
+In his executive order, Trump aims to modify the scope of Section 230.
+If acompany inappropriately restricts content — apart from removing posts that are violent, obscene or harassing — “it is engaged in editorial conduct” and “should properly lose the limited liability shield” under the law, the order states.
+It directs Commerce Secretary Wilbur Ross to request new regulations from the Federal Communications Commission to determine whether a social media company is acting “in good faith” to moderate content.
+In theory, that could open the door to users suing social media platforms if they believe their posts are restricted inappropriately.
+But it could also make companies more likely to take down false or misleading content, the opposite of what Trump wants.
+“That’s the irony of all this,” said Nathaniel Persily, a Stanford University law professor who studies technology and democracy.
+“The platforms will be much more aggressive in their automated filtering to go after content that could raise their legal liability.”
+He called Trump’s order an effort to “work the refs” as the presidential race heats up and political attacks are traded on social media.
+“You’ll have folks encouraging them to take down content,” he said, “and folks encouraging them to leave it up.”
+Daphne Keller, an expert on the regulation of technology platforms at Stanford’s Cyber Policy Center, said Trump’s order “reads like a stream-of-consciousness tweet storm.” “The underlying issues it raises are really important, of course,” she said.
+“We need an informed public debate about the power of platforms over public discourse.
+But that’s not what the [executive order] is.”
+U.S. Atty.
+Gen. William Barr, who stood beside Trump in the Oval Office as he signed the order, will play a key role in implementing it.
+Barr will work with Ross on proposed regulations and collaborating with state attorneys general to examine whether social media companies are violating any laws at the state level.
+The Justice Department, along with the Federal Trade Commission, would also review complaints about unfair censorship collected by the White House.
+The order also directs Barr to work on legislation involving social media.
+Rep. Matt Gaetz, a Florida Republican and an ally of the president, said Congress should tell companies “if you are going to opine as to the truth or falsity of that which is put on your platform for the sake of its viewers, you do not get the protections of Section 230.” Some Democrats have also argued for changes to the law.
+Joe Biden, the presumptive Democratic nominee, has called for revoking Section 230 entirely.
+He told the New York Times editorial board that Facebook and other social media companies were “propagating falsehoods they know to be false” and “it’s totally irresponsible.” House Speaker Nancy Pelosi, a San Francisco Democrat, said social media companies’ “business model is to make money at the expense of the truth and the facts.”
+She has been the target of doctored videos — Trump circulated at least two of them — that Facebook has refused to take down.
+She suggested that Trump and companies like Twitter were alike even though they’re currently feuding.
+“They’ve all exploited the truth,” she said.
+“Some have made money off of it, and some have made political capital off of their misrepresentations.”

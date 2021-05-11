@@ -1,0 +1,98 @@
+Virus cases at LAX weren’t followed up on
+L.A. County officials didn’t warn travelers or the public about early infections, The Times has found.
+Los Angeles Times - 14 Jun 2020 - A1 - By Harriet Ryan and Kiera Feldman
+When American Airlines Flight 341 to Los Angeles lifted off the tarmac at New York’s John F, Kennedy Airport on a cloudy Thursday in mid-March, much of the country was already on coronavirus lockdown.
+The flight was far from full, but the 49 passengers and eight crew shared restrooms, cabin air and a narrow aisle for the six-hour trip.
+= ere sna — eet a 2 Z 1
+fer si Serer cal sa
+Though no one knew it then, a man in first class, a retired Manhattan surgeon, was infected with the virus.
+The day after the flight, he was rushed by ambulance to Cedars-Sinai Medical Center with a high fever and phlegmy cough.
+The virus spread quickly among those he had come in contact with in the hours after leaving LAX, including at a Westside assisted living facility where a 32-year-old nurse and a dozen others later died.
+L.A. was still in an early stage of the COVID-19 pandemic when the surgeon’s flight touched down, with fewer than 250 confirmed cases.
+Local health officials regularly assured the public then that the county was investigating each case and engaging in aggressive contact tracing to control the spread of the virus.
+Despite these pledges, no one in public health informed any of the passengers and crew who had f lown cross country with the surgeon that they were at risk.
+The airline only recently learned of the case from The Times.
+It was one of two longhaul flights into LAX in March identified by The Times in which public health officials failed to alert passengers and crew who had flown with a person who later tested COVID- positive.
+In the other, a March 8 flight from Seoul, the stricken passenger reported running a fever days before boarding the aircraft and went into cardiac arrest the morning after she landed, becoming the first confirmed COVID-19 death in L.A. County.
+Without instructions to self-quarantine or seek testing, more than 200 people on these flights returned to their families and communities ignorant of their exposure, potentially seeding new outbreaks.
+“Christ,” said Dr. George Rutherford, formerly the state epidemiologist for California, upon hearing that passengers and crew weren’t
+contacted.
+“That’s a problem.”
+The mishandling of these cases raises questions about how well public officials have carried out contact tracing thus far and whether they are prepared for an expected uptick in cases as California reopens.
+The state currently has more than 150,000 confirmed COVID19 cases.
+Tracing a sick passenger can be a more straightforward process than investigating infected grocery clerks or healthcare workers, who may have come into contact with hundreds of strangers.
+Airlines maintain detailed lists of passengers, seat assignments, and contact information, and the U.S. Centers for Disease Control and Prevention has an established system to help local health departments obtain the information and notify passengers who were seated near an infected person.
+ACDC spokesman said its records indicated that in the LAX cases, L.A. public health officials never alerted the agency about the flights so that contact tracing could be initiated.
+“Any delay in contacting exposed individuals will increase the likelihood of disease spread,” a CDC spokesman said.
+The county health department said officials informed a CDC office at LAX about the South Korean flight.
+In the case of the JFK flight, its contact tracers closed the case after they were unable to reach the surgeon for an interview.
+The department currently has more than 1,500 contact tracers and plans to add more if cases rise.
+“In March, whenever Public Health was aware that an individual traveled on an airline while potentially infectious with
+COVID-19, it notified the CDC,” the department said in a statement to The Times.
+Asiana Airlines Flight 202 departed Seoul for LAX on March 8 carrying 154 passengers, including a 68-yearold from Florida and her husband.
+The woman was returning from a visit to her native Philippines, and in her last days there she had complained that she didn’t feel well and had a fever.
+By the time she boarded a connecting f light in South Korea, the fever was apparently gone, because she passed through temperature screening at the airport, according to her daughter, who asked that neither her mother’s name nor hers be used for fear of harassment.
+After the nearly 11-hour flight, the woman went to a relative’s house in Walnut.
+The next morning, she stopped breathing.
+She died March 10, the first confirmed COVID-19 death in L.A. County.
+Almost immediately, a public health department representative contacted her daughter for help reconstructing her mother’s final interactions.
+At the time of her death, there were just 17 known cases in the county.
+“Tt felt like there was this urgency,” her daughter recalled.
+“I was on the phone every day with them for a week.”
+The health department tracked down the man who picked up the woman and her husband from LAX, a relative’s acquaintance.
+Her daughter said she was later told the driver, whose name she didn’t know, died from COVID-19.
+Public health officials declined to provide details about their investigation, citing patient privacy.
+A contact tracer asked for the couple’s flight number and even requested her seat assignment.
+But no health authorities contacted Asiana Airlines to get the flight manifest or the CDC’s Korean counterpart, spokespeople for both said.
+Stateside, the agencies responsible each seemed to blame the other.
+“This flight is not in our contact investigation database, and CDC did not receive inquiries about this flight,” a CDC spokesman said.
+The county health department maintained that officials “notified CDC Quarantine Station at LAX as per protocol for potential follow-up.” The Times asked for documentation of the notification.
+The county did not provide any.
+Months after the Florida woman’s death, her daughter still thinks about the other passengers on the flight from Seoul.
+She asked her father recently if her mother had worn a mask.
+Most of the time, he said.
+“I was just worried about other people she could have infected.
+You feel all this guilt,” she said.
+Because infection risk is a function of closeness and length of exposure, air travelers are susceptible to contracting COVID-19 from a fellow passenger, said epidemiologist David Engelthaler.
+“Sitting in a closed environment for an extended period of time just increases the overall exposure,” said Engelthaler, the head of the infectious-disease arm of Arizona’s Translational Genomics Research Institute.
+When a passenger travels while infected with the novel coronavirus, the CDC’s protocol is to notify those seated in a six-foot radius.
+Depending on the configuration, that can mean passengers in the same row along with two rows in front and two rows behind.
+Yet some scientists have criticized this standard as inadequate and potentially dangerous.
+One 2016 study found that for both SARS and influenza, approximately half of those who contracted the viruses were seated more than two rows away from the infected person.
+On a three-hour flight from Hong Kong to Beijing in 2003, for example, a passenger with SARS infected two flight attendants and eighteen other passengers throughout the plane.
+In the case of the LAX flights, “I would notify everyone on the flight that they had been exposed,” said Rutherford, a professor of epidemiology at UCSF.
+“We would encourage them to get tested, and we would do an investigation of the people who were seated most closely ... and make sure they got tested.”
+Other jurisdictions have embraced even wider warnings.
+When a passenger on a two-hour flight to Rochester, N.Y., from JFK came down with COVID-19 in midMarch, public health officials there made a public announcement that everyone aboard and anyone in the airport at the time should be on the lookout for symptoms.
+Early in the pandemic, public health officials were tightly focused on airports as they worked to contain the virus.
+The first known case in L.A. was detected Jan. 22 at LAX.
+Aman from Wuhan, China, connecting through the airport with his family on the way home from a Mexican vacation told a Customs and Border Protection agent he needed medical treatment and was later taken to a local hospital and diagnosed with the virus.
+Public health officials notified passengers seated within two rows of the infected man and instructed the airline to contact the crew.
+The man eventually recovered.
+Since the pandemic began in the U.S., the CDC has facilitated 392 contact tracing investigations of air travelers.
+The agency declined to provide further details, and it was not clear if there were other unreported flights in addition to the ones identified by The Times.
+When the surgeon’s flight landed on the evening of March 19, the number of cases in L.A. County had topped 200, but the county was still telling the public it was able to do adequate tracing.
+“All confirmed cases are being isolated and close contacts are quarantined,” the county said in a news release that day.
+The 69-year-old surgeon was flying to L.A. so he could move into the Silverado Beverly Place, a dementia-care residence on the edge of the Fairfax district.
+His relatives did not return calls seeking comment.
+The surgeon was the subject of a guardianship proceeding in February, and The Times is not naming him because his mental competency is unclear.
+Just prior to the flight, he had been discharged from a New York City hospital, according to correspondence from the Silverado and interviews.
+At the time, the coronavirus was spreading rapidly in the city, including in medical facilities.
+There was little attempt to quarantine him from other residents once he got to the Silverado from the airport, according to three employees who recalled him eating dinner in the company of other residents shortly after his arrival.
+The nurse assigned to welcome him, Brittany
+Bruner-Ringo, later told her mother, sister and a colleague that the man had a fever anda cough when he arrived.
+The Silverado has denied that and said medical records prepared by the nurse show he had no symptoms.
+By the next day, however, the doctor was clearly unwell with a temperature of 101.9 anda “productive cough,” according to medical records.
+One employee who spoke on the condition of anonymity because she was not authorized to speak publicly said when she told him he needed to stay in his room because of the pandemic, he replied, “Yes, I know the situation.
+And I am really hot, and I have it, and I need to go to the hospital.”
+Taken to Cedars-Sinai, he tested positive for COVID-19.
+Passengers and crew on the flight from New York were obvious targets for contact tracing, but no one attempted to get in touch with them.
+The county health department said it didn’t learn of the surgeon’s positive test for 11 days, and at that point, “the contact information provided for the individual was incomplete and the investigator was not able to conduct an interview.” The county formally closed the case after 14 days.
+It was unclear why the contact tracers would not have turned to the Silverado for information about the surgeon.
+The facility filed a report with the county within hours of his positive test, providing the sick man’s name, explaining his recent arrival and giving contact information for an administrator, according to correspondence provided by the Silverado.
+Receiving no response, the administrator reached out again three days later and was told “we did not need to do anything further at this time,” according to a Silverado spokesman.
+The surgeon recovered, but the Silverado saw an outbreak.
+To date, 90 residents and staff have come down with the virus and 13 died, including BrunerRingo.
+A county spokesman said there is an “ongoing investigation” into the outbreak.
+‘Christ.
+That’s a problem.’ — Dr. George Rutherford, former state epidemiologist, upon learning airline travelers and crew weren’t notified of flying with an infected passenger

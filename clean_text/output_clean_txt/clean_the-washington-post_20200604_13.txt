@@ -1,0 +1,43 @@
+Hydroxychloroquine: In a trial, the drug didn’t prevent covid19.
+Trump-promoted drug didn’t stop healthy people from getting ill
+Hydroxychloroquine did not prevent healthy people exposed to someone with covid-19 from getting the disease caused by the coronavirus, according to a study being published Wednesday in the New England Journal of Medicine.
+The study is the first randomized clinical trial that tested the antimalarial drug as a preventive measure, according to researchers at the University of Minnesota Medical School who conducted the trial.
+It showed that hydroxychloroquine, which has been touted by President Trump, was no more effective than a placebo — in this case, a vitamin — in protecting people exposed to covid-19.
+“As we say in Tennessee, ‘ that dog won’t hunt’ — it didn’t work,” said William Schaffner, a professor of preventive medicine and infectious diseases at Vanderbilt University Medical Center.
+Schaffner, who was not involved in the trial, praised it as “rigorously done.”
+The results were the latest development in a highly charged medical and political issue — the efficacy of hydroxychloroquine in combating covid-19.
+Trump has repeatedly touted the drug as a “game changer” for covid-19 and recently said he took a course of it.
+But federal regulators have said it should be used only for hospitalized patients or in clinical trials, because of possible side effects including serious heartrhythm issues.
+Researchers launched the trial in mid-march.
+They enrolled more than 800 adults in the United States and Canada who were exposed to someone with covid-19 because of their jobs as health-care workers or first responders, or because they lived with someone with the disease.
+The study was a randomized, placebo-controlled trial and was doubleblinded, meaning neither the participants nor the researchers knew what the participants received.
+Such a study is considered the gold standard for clinical trials.
+Adding to the controversy surrounding the drug, a large observational study on hydroxychloroquine that warned of dangerous side effects has come under fire in recent days.
+The study, published May 22 by the Lancet medical journal, was based on records from hundreds of hospitals and involved 96,000 hospitalized coronavirus patients on six continents.
+It found that those who received hydroxychloroquine or a closely related drug, chloroquine, had a significantly higher risk of death than those who did not.
+Shortly after its publication, the World Health Organization suspended the use of hydroxychloroquine
+in a large international trial testing therapies for the disease and France banned it asa treatment for covid-19.
+In recent days, scientists have raised questions about the validity of the data used for the study.
+On Tuesday, the Lancet published an “expression of concern” about the study.
+The researchers said in a statement that they are conducting an independent review of the data, which came from an outside company.
+Among other things, critics are skeptical that so many health records could have been collected in such a short period of time and have cited inconsistencies about dosing information.
+In addition, the company has not explained its methodology, scientists say.
+The WHO, meanwhile, resumed its trial of hydroxychloroquine, saying its safety experts concluded there was no reason to discontinue it.
+The prevention trial released Wednesday showed 40 percent of the participants who took the drug developed side effects that were not serious — mostly nausea, upset stomach and diarrhea.
+The study found no serious side effects or cardiac complications, the researchers said.
+Its findings reinforced those of previous studies showing the drug does not provide benefit against covid-19.
+“It’s not surprising given that there has not been efficacy established for this drug in any meaningful way,” said Eric Topol, director of the Scripps Research Translational Institute in San Diego.
+“It’s not a large study, but it extends the spectrum from the most severely ill patients to mildly ill and now preventive.”
+Jeanne Marrazzo, an infectious-disease expert at the University of Alabama at Birmingham, said the results “should provide a very big nail in the coffin” for the idea that hydroxychloroquine can help prevent covid-19.
+David Boulware, an infectiousdisease specialist at the University of Minnesota and the study’s senior investigator, said he launched the trial because hydroxychloroquine had shown signs in a lab setting that it might be effective against the virus.
+About two-thirds of the trial participants were health-care workers and the rest were a mix of other people exposed to someone with covid-19, he said.
+They were given hydroxychloroquine or a placebo for five days and then followed for two weeks to see who developed the disease.
+The participants were recruited on the Internet through social media.
+Their eligibility was confirmed with documents, and the team sent medications overnight via Fedex.
+Given the political sensitivities of the issue, Boulware said, it was important the participants did not know who was getting the drug and who was getting the placebo.
+“So if some were for Trump and some were not Trump supporters, all that would be washed out because the trial was blinded,” he said.
+Overall, about 12 percent given the drug developed covid-19, while 14 percent given the placebo also did — not a statistical difference.
+There was no benefit for people who also took zinc or vitamin C, the researchers said.
+Boulware said that the analysis tried to drill down on whether any subgroups, by race, occupation, age, or co- morbidities, had any hint of benefit.
+But they could not find any, he said.
+One weakness of the trial, he added, is that because testing was not widely available during the time of the trial, their analysis used a combination of lab-confirmed positive covid-19 tests and symptoms to count someone as infected.

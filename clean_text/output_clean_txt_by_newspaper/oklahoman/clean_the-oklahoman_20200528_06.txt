@@ -1,0 +1,31 @@
+APPLIED WISDOM
+Local banker Jill Castilla has teamed up with Mark Cuban on a project to help small business owners navigate a complicated loan forgiveness application
+Local banker Jill Castilla has teamed up with Mark Cuba non a project to help small business owners navigate a complicated loan forgiveness application.
+Under t he Paycheck Protection Program launched in the wake of the COVID-19 pandemic, the federal government authorized loans while also allowing small businesses to have those loans forgiven.
+The forgiveness application is 11 pages long and cumbersome, said Castilla, president and CEO of Citizens Bank of Edmond.
+With Cuban's help, a website was launched to help business owners fill out the form and submit it to their own bank.
+"We were starting to get some concern on social media across the nation," she said.
+"We've been so involved with the Paycheck Protection Program that we get to hear from those borrowers, even though they may not have come through Citizens Bank of Edmond."
+The free website, PPP.
+bank, is a collaboration between Castilla, Cuban and Teslar Software, which manages online banking applications.
+"Mark Cuban reached out to me late last week and he thought we really needed to launch some type of national application for the Paycheck Protection Program’ s forgiveness, that the 11- page application was not user-friendly," Castilla said.
+Cuban already knew Cast illa since the two linked up on Twitter in March to find ways to help people waiting on their federal stimulus payments."
+"It's been really amazing to see like-minds coming together.
+We didn't have any interactions with Mark Cuban prior to this, and it just happened through the power of social media," Castilla said.
+Cuban is a well-known tech entrepreneur and a host on the TV show "Shark Tank."
+He also owns the Dallas Mavericks basketball team.
+Loan recipients can begin requesting forgiveness Friday through the Small Business Administration.
+The new website lets people fill out the form and either print it out or email it to their bank.
+The team was able to secure a .
+bank URL, a process t hat usually takes months, in just a few days.
+The website won't be branded and is available for anyone to use, no matter who they bank with, Castilla said.
+She also said it's secure and won't collect private information that people enter while filling out the SBA's form.
+"We wanted to make sure we weren't retaining any information, that we were not scrubbing any data or even capturing analytics off t he website.
+The business can be assured that it's just for their use only and once they print it off or clear their data, it's no longer being stored," she said.
+Cuban donated server space through Amazon Web Services, and t he website can handle a massive load of traffic.
+While the SBA provided the form in advance, the agency was not involved in creating Castilla and Cuban's website.
+Cast illa said she' s received hundreds of private messages and questions on Twitter about the Pay check Protection Program application, many from business owners who might not have a close relationship with an accountant, attorney or even a bookkeeper.
+It might be easier to only focus on her own clients during the pandemic and subsequent economic crisis, but Castilla said she felt compelled to do more.
+Along with offering loan deferment options to her customers, she and her team stepped up to be an advocate for small businesses.
+"Once we saw the needs far exceeded what we were able to offer, then we knew we needed to step up and provide more of a perspective at the national stage of what was happening on Main Street," she said.
+''There was a great desire in Washington D. C. to help Main Street, but not a great understanding of how to get assistance to them."

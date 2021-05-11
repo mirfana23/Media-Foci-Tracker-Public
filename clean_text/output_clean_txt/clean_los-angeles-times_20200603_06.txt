@@ -1,0 +1,62 @@
+BUSINESS INSIDE: Tech firms call for racial justice, but what actions have they taken?
+Los Angeles Times : 3 Jun 2020: A‘: By Johana Bhuiyan
+Protesters demanding justice for George Floyd have poured onto the streets of cities across the country in the days since Floyd was killed by Minneapolis police.
+Among the voices condemning Floyd’s death and supporting the protests are those of tech behemoths including Facebook, Google and Amazon.
+“The pain of the last week reminds us how far our country has to go to give every person the freedom to live with dignity and peace,” Facebook Chief Executive Mark Zuckerberg wrote in a post Sunday announcing a $10-million donation to “groups working on racial justice.” “We stand with the black community — and all those working towards justice in honor of George Floyd, Breonna Taylor, Ahmaud Arbery and far too many others whose names will not be forgotten.”
+But even as Zuckerberg was composing (or at least approving) those words, employees at his company were organizing a work stoppage over the decision not to take down President Trump’s post calling protesters “thugs” and saying “when the looting starts, the shooting starts.”
+Zuckerberg attempted to calm the waters with a conference call that included leaders of several civil rights groups such as Color of Change, NAACP Legal Defense Fund and the Leadership Conference on Civil and Human Rights.
+But participants were reportedly disappointed by his response.
+“What was clear coming out of that meeting is Mark has no real understanding of the history or current impact of voter suppression, racism or discrimination.
+He lives in a bubble, and he defended every decision that he’s made,” Robinson told the Washington Post.
+It’s not the first time Facebook has been accused of having what one employee memorably called “a black people problem.” In 2018, Mark Luckie, the former strategic partner manager for global influencers at Facebook, published a post decrying the treatment of black users of the platform, including account suspensions and censorship, and detailing discrimination against black employees, who at the time made up just 4% of the workforce.
+Luckie described black Facebook employees being discouraged by their managers from sharing feedback and participating in internal groups and treated as suspicious by campus security.
+“There is often more diversity in Keynote presentations than the teams who present them,” he wrote.
+Asked for comment, Facebook referred to Zuckerberg’s statement.
+Facebook isn’t the only tech company whose rhetoric on racial justice hasn’t always matched the reality.
+Statements issued in the last few days by Amazon, Nextdoor, Google and others suggest a different picture from the one painted by the companies’ own business decisions and personnel policies.
+What it said: “The inequitable and brutal treatment of black people in our country must stop.
+Together we stand in solidarity with the black community — our employees, customers, and partners — in the fight against systemic racism and injustice.”
+What the record shows: At the center of the protests demanding justice for Floyd are calls for police reform and an end to racist policing.
+Amazon has several contracts with law enforcement agencies.
+Of particular note, Ring, Amazon’s home surveillance company, has partnerships with at least 200 police departments across the country, as Motherboard has reported.
+As part of its contract with some police departments, Ring incentivizes police to encourage citizens to adopt the company’s neighborhood watch app — which has reported issues with racial profiling.
+After reviewing more than 100 posts on the app, Motherboard found that the majority of people who users deemed “suspicious” were people of color.
+“Given the reality of police violence, with impunity, impacting primarily people of color in the United States, these kinds of acts threaten the lives of third parties who are simply, in some cases, doing their jobs or living in their own neighborhoods,” Shahid Buttar, director of grass-roots advocacy for the Electronic Frontier Foundation, told Motherboard.
+Amazon also licenses facial recognition software, called Rekognition, to law enforcement agencies.
+A study by the MIT Media Lab found that the software performed worse at identifying the gender of individuals with dark faces, although Amazon contested the validity of the findings.
+Other facial recognition algorithms have struggled to accurately identify nonwhite faces.
+Amazon did not respond to a request for comment.
+What it said: “Black Lives Matter.
+You are not alone.
+Everyone should feel safe in their neighborhood.
+Reach out.
+Listen.
+Take action.”
+What the record shows: Nextdoor users, who use the service to share and read information about their immediate neighborhoods, often post unverified or unsubstantiated reports of “suspicious” people of color and black people on its “crime and safety” pages.
+The company has implemented product design and algorithmic changes that purport to spot racist language and help eliminate bias on the platform, but reports show it still is not effective.
+Recently, the company has started to promote its network for use by local law enforcement and government agencies.
+As part of its work with local law enforcement, the company introduced a feature in some neighborhood groups that allow users to forward posts found in the “crime and safety” tab directly to police.
+As protests over Floyd’s death have spread across the U.S., Nextdoor and Ring have also served as the vectors for a disinformation campaign, traced in part to a white nationalist group, attempting to stoke fears of violence and property destruction committed by “antifa” agitators.
+“At Nextdoor, we want all neighbors to feel safe and welcome.
+We want to be a part of changing things for the better, and are committed to doing the hard work to make this reality,” company spokesperson Kim Samson said.
+What CEO Sundar Pichai said: “Today on U.S. Google & YouTube homepages we share our support for racial equality in solidarity with the black community and in memory of George Floyd, Breonna Taylor, Ahmaud Arbery & others who don’t have a voice.
+For those feeling grief, anger, sadness & fear, you are not alone.”
+What the record shows: Google employees’ demands for more diversity inside the company led to a November 2018 walkout by more than 20,000 people.
+As of May, blacks made up just 5.5% of the company’s more than 100,000 global employees.
+That’s up from 4.8% in 2019.
+Current and former employees complain of continued discrimination.
+In September 2019, Leslie Miley, a black engineering director, said he was questioned by a white employee who blocked his entrance into their office and asked to see his company badge even though it was visible.
+“It is not easy being black at #google,” Miley tweeted at the time.
+Former and current employees who vocally advocated for more diversity within the company have also brought up Google’s lack of support or action when they were publicly harassed after their internal conversations and personal information were leaked to conservative and alt-right publications.
+In May, NBC News reported that Google has “significantly rolled back its diversity and inclusion initiatives in an apparent effort to avoid being perceived as anti-conservative.” Google denied cutting the programs, saying it was “maturing” them in order to “providea scalable solution across the globe.”
+Google did not respond to a request for comment.
+What CEO Steve Huffman wrote in a long statement aimed at Reddit users and employees: “We are facing a crisis that has been hundreds of years in the making, is sadly repetitive, and is not going to be fixed overnight.” Among the responses he suggested were amplifying conversations on the Black Lives Matter subreddit and focusing on the safety of black users (or “Redditors”’).
+What the record shows: Ellen Pao, former CEO of Reddit, was quick to respond to Huffman’s statement.
+“I am obligated to call you out: You should have shut down the_donald instead of amplifying it and its hate, racism, and violence,” Pao tweeted, referring to a subreddit that has a long history of racist, misogynistic content and conspiracy theories.
+“So much of what is happening now lies at your feet.
+You don’t get to say BLM when reddit nurtures and monetizes white supremacy and hate all day long.”
+The subreddit was “quarantined” in 2019 when users posted “threats against the police and public figures,” violating the company’s violence policies.
+Despite calls to ban the subreddit outright, users could still access and comment on it but could not accidentally stumble on the posts.
+Pao, who in her time as CEO banned five subreddits over harassment and was accused of censorship, resigned from her position at the company and was replaced by Huffman.
+Reddit declined to comment on the record.
+Times staff writer Suhauna Hussain contributed to this report.

@@ -1,0 +1,176 @@
+2020. 6. 17. Asia vs. West: Scientists ponder vastly uneven death rates.
+
+Asia vs. West: Scientists ponder vastly uneven death rates.
+
+The Washington Post - 29 May 2020 - A1 - BY SIMON DENYER AND JOEL ACHENBACH simon.denyer@washpost.com
+joel.achenbach@washpost.com Achenbach reported from Washington. Akiko Kashiwagi in Tokyo and Chris Mooney in Wash-
+ington contributed to this report.
+
+TOKYO — It is one of the many mysteries of the coronavirus pandemic: Why has the death
+toll from covid-19 apparently been lower in Asia than in Western Europe and North Amer-
+ica?
+
+ 
+
+Even allowing for different testing policies and counting methods, and questions over full
+disclosure of cases, stark differences in mortality across the world have caught the atten-
+tion of researchers trying to crack the coronavirus code.
+
+Parts of Asia reacted quickly to the threat and largely started social distancing earlier on.
+But researchers are also examining other factors, including differences in genetics and im-
+mune system responses, separate virus strains and regional contrasts in obesity levels and
+general health.
+
+What are the numbers?
+
+China, where the virus emerged late last year in Wuhan, has recorded fewer than 5,000
+deaths, which translates to three deaths per million inhabitants. Japan has around seven
+per million, Pakistan six, South Korea and Indonesia five, India three and Thailand fewer
+than one per million. Vietnam, Cambodia and Mongolia say they have recorded zero covid-
+19-related deaths.
+
+Compare that with about 100 deaths per million in Germany, about 180 in Canada, nearly
+300 in the United States and more than 500 in Britain, Italy and Spain.
+
+Scientists at Japan’s Chiba University plotted the trajectory of the virus across the world
+and said they noticed stark regional disparities.
+
+“That means we need to take into consideration regional differences first, before analyz-
+ing what policies and other factors are affecting the spread of infection in any given coun-
+try,” said Akihiro Hisaka of the university’s Graduate School of Pharmaceutical Sciences.
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200529/page/1/textview 114
+2020. 6. 17. Asia vs. West: Scientists ponder vastly uneven death rates.
+
+The conventional wisdom
+
+The baseline assumption, at the moment, is that the virus — officially SARS- COV-2 —
+mutates the way all viruses do and is just as innately contagious and lethal in one part of
+the world as in another.
+
+“We are all facing the same bug with the same general arsenal of immune responses,” said
+Jeffrey Shaman, an epidemiologist at Columbia University. “There are differences in test-
+ing, reporting, control from country to country. And there are differences in rates of hy-
+pertension, chronic lung disease, et cetera, on a country-by-country basis.”
+
+Part of the reason for the high number of deaths in the United States and Western Europe
+may lie in an initial reluctance to react to an epidemic that seemed distant and unthreaten-
+ing. In Asia, meanwhile, previous experience with the SARS and MERS epidemics enabled
+much faster responses to the new threat.
+
+Taiwan, for example, has been widely praised for its speedy response to the epidemic, in-
+cluding early screening of air passengers from Wuhan. South Korea built a massive pro-
+gram of testing, tracing and isolating patients.
+
+But in Japan and India, two very different countries, the relatively low death toll has baf-
+fled many scientists. Similar mysteries have emerged from Pakistan to the Philippines.
+Weather and culture a reason?
+
+Hot and humid weather could be a factor in places such as Cambodia, Vietnam and
+Singapore. Several studies have suggested that heat and humidity can slow, although not
+stop, the spread of the virus, just as is seen with influenza and with coronaviruses that
+cause common colds. But some equatorial countries, including Ecuador and Brazil, have
+seen many cases and deaths linked to covid-19.
+
+Demographics also play a role in regional disparities. Africa’s generally younger popula-
+tion may have been more resistant than northern Italy’s older communities, for example.
+In Japan, which has the world’s oldest population, different reasons are being explored.
+There is a widespread belief in Japan that good hygiene and habits, like wearing masks and
+avoiding handshakes, helped slow the spread of the virus, while universal health care and
+the country’s emphasis on protecting the elderly may have lowered the death toll.
+
+What about different strains?
+
+Research by a team at Cambridge University showed how the virus mutated as it left East
+Asia and traveled to Europe, noting the possibility that the initial strain may have been
+“immunologically or environmentally adapted to a large section of the East Asian popula-
+tion” and needed to mutate to overcome resistance outside that region.
+
+Peter Forster, the geneticist who led that study, said there is “very limited clinical data” on
+how the various virus strains interacted with different populations. He noted, however,
+that the question “should be followed up” on whether different strains explained con-
+trasting mortality rates.
+
+A team of scientists at Los Alamos National Laboratory also argued that a more highly
+contagious strain of the virus has taken hold in Europe and spread in the United States —
+but other experts have said the significance of emergent strains remains unclear.
+
+“Tt could just be an accident that whoever had that mutant went to the most rock festivals
+and nightclubs and transmitted to the most people,” said Jeremy Luban, a virologist at the
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200529/page/1/textview 2/4
+2020. 6. 17. Asia vs. West: Scientists ponder vastly uneven death rates.
+
+University of Massachusetts Medical School. “But the other possibility is that that strain is
+more transmissible.”
+
+Genes and immune systems
+
+Nobel laureate Tasuku Honjo, a Japanese physician-scientist and immunologist, said peo-
+ple with Asian and European ancestry have enormous differences in the human leukocyte
+antigen (HLA) haplotype, genes that control the immune system’s response to a virus.
+That might help explain lower Asian death rates, he said, but is unlikely to be the only rea-
+son.
+
+Scientists at Chiba University said a whole range of possible genetic factors might condi-
+tion the body’s response to the virus and deserved further study — even while stressing
+that there is no evidence yet to back up the idea.
+
+Different immune responses could also play a role.
+
+Tatsuhiko Kodama of the University of Tokyo said preliminary studies show that Japanese
+people’s immune systems tend to react to the novel coronavirus as though they had previ-
+ous exposure, and notes that there are centuries of history of coronaviruses emerging from
+East Asia.
+
+“The enigma of lower death rates in East Asia can be explained by the presence of immu-
+nity,” he said.
+
+Other studies have suggested that rates of Bacille CalmetteGuerin (BCG) vaccination might
+have played a role, because the anti-tuberculosis shot can potentially cause immune-
+boosting response at the cell level.
+
+“Our hypothesis is that BCG, plus infection or exposure to TB, would be protective,” said
+Tsuyoshi Miyakawa of Fujita Health University.
+
+But Japan has a record of BCG vaccination similar to that of France — albeit with a differ-
+ent strain of the vaccine — and yet a very different covid-19 mortality rate.
+
+Experts are divided, but clinical trials are underway.
+
+Megan Murray, an epidemiologist at Harvard Medical School, said another factor worth
+exploring is differences in microbiomes — the trillions of bacteria that reside in a person’s
+gut and play a huge role in immune response.
+
+“Microbiomes are very different in different places. People eat very different food,” she
+said.
+
+Obesity under study. But don’t discount random chance.
+
+There’s something else that many Asian countries have in common — much lower rates of
+obesity than in the West.
+
+Obesity is a leading risk factor for serious covid-19 illness. Just over 4 percent of Japanese
+people are classified as obese, and less than 5 percent of South Koreans. That compares
+with 20 percent or more in Western Europe, and 36 percent of people in the United States,
+according to the World Health Organization.
+
+But random chance is also at play. Russia, for example, looked remarkably unscathed by
+the virus for a couple of months, and now it’s a hot spot. Cases are now rising in India after
+a relatively flat curve.
+
+All the epidemiological research on the virus suffers from incomplete data, and any con-
+clusions drawn from the initial numbers may melt away as new data emerges. It is still
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200529/page/1/textview 3/4
+2020. 6. 17. Asia vs. West: Scientists ponder vastly uneven death rates.
+
+early in the pandemic, experts say, and the hard-science questions take time.
+
+In any case, it doesn’t change the need for every country to remain on high alert.
+
+“All of the strains that are circulating on the planet,” said Umass professor Luban, “seem
+to be capable of killing people.”
+
+https:/Avww.pressreader.com/usa/the-washington-post/20200529/page/1/textview 4/4
+
