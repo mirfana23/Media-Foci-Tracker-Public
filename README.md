@@ -1,15 +1,18 @@
-# media-foci-tracker
-This project focusing on developing a program that assesses and analyzes public trends across different countries and concocts a conclusion using Natural Language Processing. The approach is to implement NER and TF-IDF to get the result.
+# Media Foci Tracker
 
-The step is as follow:
+The **Media Foci Tracker** is a project that aims to develop a program that assesses and analyzes public trends across different countries using Natural Language Processing. The approach involves implementing Named Entity Recognition (NER) and Term Frequency-Inverse Document Frequency (TF-IDF) to obtain meaningful insights.
 
-raw_data -> clean_text/text_data_zip
+## Workflow
 
-clean_sentences -> clean_text/output_clean_text
+The following steps are involved in the project workflow:
 
-1. first sentence is title
+- **Raw data** - Data is collected from various sources and stored in raw format.
+- **Clean text** - The raw data is preprocessed and cleaned to obtain text data in zip format.
+- **Clean sentences** - The clean text data is further processed to obtain output clean text.
+- **Title extraction** - The first sentence is extracted as the title of the news article.
+- **Keywords extraction** - Keywords are extracted using a summarization algorithm for all the news articles.
+- **Data organization** - The final output is in the form of a list of tuples containing the date and keywords.
 
-sum_keywords_extract -> keywords_extraction for all news
+## Conclusion
 
-
-data is a list of tuples (date, keywords)
+The Media Foci Tracker project is an innovative approach to track and analyze public trends across different countries. By using NER and TF-IDF techniques, the program can provide meaningful insights into the current public discourse.
